@@ -1,0 +1,77 @@
+---
+title: "eBird API usage"
+author: "Andrew Cameron"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(httr)
+library(jsonlite)
+
+```
+
+
+```{r `api key`}
+# required API key can be obtained at [ebird API keygen](https://ebird.org/api/keygen).
+
+# Can be used in either of two ways:
+  # 1 included as request parameter  (`key`) in the api call 
+  # 2 included as request header called "x-ebirdapitoken"  
+EBIRD_KEY = "jrel4sdsnpqv"
+headers = c('X-eBirdApiToken' = 'jrel4sdsnpqv') 
+
+```
+
+### define url structure
+```{r `url strucure`}
+base_url <- "https://api.ebird.org/v2/"
+
+# define endpoint beginning with one of
+## `data/obs`
+## `product`
+## `ref/geo`
+## `ref/hotspot`
+## `ref/taxonomy`
+## `ref/region`
+endpoint <- "ref/hotspot/info/L682725"
+
+full_url <- paste0(base_url, endpoint)
+```
+
+
+
+
+# ---- eBird API urls
+
+## Hotspot Info
+
+# "https://api.ebird.org/v2/ref/hotspot/info/"
+
+## Nearby hotspots
+
+### "https://api.ebird.org/v2/ref/hotspot/geo?lat=>{{lat}}&lng={{lng}}"
+
+```{r}
+
+res <- VERB("GET", url = "https://api.ebird.org/v2/ref/hotspot/info/L682725", add_headers(headers))
+
+hs <- VERB("GET", url = full_url, add_headers(headers))
+
+cat(content(res, 'text'))
+```
+
+```{r}
+files <- c("ebird_L11129641.csv", "ebird_L2430291.csv", "ebird_L2762998.csv", "ebird_L6334917.csv", "ebird_L682725.csv")
+
+# Determine the start and end positions
+start_position <- nchar("ebird_L")
+end_position <- nchar(files[1]) - nchar(".csv")
+
+# Extract parts starting with 'L' and ending before the "."
+vector <- substr(files, start_position, end_position)
+
+```

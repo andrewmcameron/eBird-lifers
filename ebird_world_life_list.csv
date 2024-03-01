@@ -1,0 +1,887 @@
+Row #,Taxon Order,Category,Common Name,Scientific Name,Count,Location,S/P,Date,LocID,SubID,Exotic,Countable
+1,687,species,Harlequin Duck,Histrionicus histrionicus,1,Kiptopeke SP--Fishing Pier,US-VA,02 Jan 2024,L1133976,S157839315,,1
+2,35142,species,Cuban Bullfinch,Melopyrrha nigra,5,PN Topes de Collantes--Los Helechos Hotel,CU-07,23 Dec 2023,L6134619,S157511260,,1
+3,33321,species,Cuban Blackbird,Ptiloxena atroviolacea,7,PN Topes de Collantes--Los Helechos Hotel,CU-07,23 Dec 2023,L6134619,S157511260,,1
+4,33140,species,Cuban Oriole,Icterus melanopsis,3,PN Topes de Collantes--Los Helechos Hotel,CU-07,23 Dec 2023,L6134619,S157511260,,1
+5,33016,species,Western Spindalis,Spindalis zena,6,PN Topes de Collantes--Los Helechos Hotel,CU-07,23 Dec 2023,L6134619,S157511260,,1
+6,17171,species,Giant Kingbird,Tyrannus cubensis,1,PN Topes de Collantes--Los Helechos Hotel,CU-07,23 Dec 2023,L6134619,S157511260,,1
+7,10982,species,West Indian Woodpecker,Melanerpes superciliaris,2,PN Topes de Collantes--Los Helechos Hotel,CU-07,23 Dec 2023,L6134619,S157511260,,1
+8,10919,species,Cuban Green Woodpecker,Xiphidiopicus percussus,2,PN Topes de Collantes--Los Helechos Hotel,CU-07,23 Dec 2023,L6134619,S157511260,,1
+9,3822,species,White-collared Swift,Streptoprocne zonaris,50,PN Topes de Collantes--Los Helechos Hotel,CU-07,23 Dec 2023,L6134619,S157511260,,1
+10,1968,species,Scaly-naped Pigeon,Patagioenas squamosa,3,PN Topes de Collantes--Los Helechos Hotel,CU-07,23 Dec 2023,L6134619,S157511260,,1
+11,8682,species,Bare-legged Owl,Margarobyas lawrencii,3,"Sancti Spíritus CU-Sancti Spíritus (21.9133,-80.0218)",CU-05,22 Dec 2023,L28487748,S157369909,,1
+12,33283,species,Tawny-shouldered Blackbird,Agelaius humeralis,12,"Guanayara, Topes de Collantes",CU-05,22 Dec 2023,L28502163,S157641731,,1
+13,17035,species,La Sagra's Flycatcher,Myiarchus sagrae,1,"Guanayara, Topes de Collantes",CU-05,22 Dec 2023,L28502163,S157641731,,1
+14,12707,species,Cuban Parrot,Amazona leucocephala,1,"Guanayara, Topes de Collantes",CU-05,22 Dec 2023,L28502163,S157641731,,1
+15,9557,species,Cuban Tody,Todus multicolor,2,"Guanayara, Topes de Collantes",CU-05,22 Dec 2023,L28502163,S157641731,,1
+16,9306,species,Cuban Trogon,Priotelus temnurus,6,"Guanayara, Topes de Collantes",CU-05,22 Dec 2023,L28502163,S157641731,,1
+17,4831,species,Cuban Emerald,Riccordia ricordii,1,"Guanayara, Topes de Collantes",CU-05,22 Dec 2023,L28502163,S157641731,,1
+18,930,species,Helmeted Guineafowl,Numida meleagris,15,"Guanayara, Topes de Collantes",CU-05,22 Dec 2023,L28502163,S157641731,N,1
+19,16618,species,Cuban Pewee,Contopus caribaeus,1,Playa Ancon,CU-07,21 Dec 2023,L352212,S156828838,,1
+20,8221,species,Cuban Black Hawk,Buteogallus gundlachii,1,Playa Ancon,CU-07,21 Dec 2023,L352212,S156828838,,1
+21,33479,species,Mourning Warbler,Geothlypis philadelphia,1,"Monongahela National Forest, Marlinton US-WV 38.27147, -80.34383",US-WV,18 Jun 2023,L25322772,S142074510,,1
+23,5428,species,Sora,Porzana carolina,1,**Back Bay NWR,US-VA,05 May 2023,L718307,S136196451,,1
+24,6553,species,Iceland Gull,Larus glaucoides,1,Leeward Municipal Marina,US-VA,04 Apr 2023,L23388739,S132697378,,1
+26,32408,species,Bachman's Sparrow,Peucaea aestivalis,4,Jonathan Dickinson SP,US-FL,29 May 2022,L127410,S111606953,,1
+27,20906,species,Florida Scrub-Jay,Aphelocoma coerulescens,8,Jonathan Dickinson SP,US-FL,29 May 2022,L127410,S111607009,,1
+28,3610,species,Chuck-will's-widow,Antrostomus carolinensis,1,Kiptopeke State Park,US-VA,22 May 2022,L718546,S111026013,,1
+29,33554,species,Bay-breasted Warbler,Setophaga castanea,1,Mariners' Museum Park/The Noland Trail,US-VA,14 May 2022,L523043,S110091760,,1
+32,6519,species,Glaucous Gull,Larus hyperboreus,1,King-Lincoln Park,US-VA,06 Apr 2022,L5292802,S106429710,,1
+33,17116,species,Streaked Flycatcher,Myiodynastes maculatus,8,Recreo Suteba - Tigre,AR-B,17 Dec 2021,L17131405,S99074268,,1
+34,16395,species,Large Elaenia,Elaenia spectabilis,1,Recreo Suteba - Tigre,AR-B,17 Dec 2021,L17131405,S99074268,,1
+35,15750,species,White-winged Becard,Pachyramphus polychopterus,1,Recreo Suteba - Tigre,AR-B,17 Dec 2021,L17131405,S99074268,,1
+36,5414,species,Gray-cowled Wood-Rail,Aramides cajaneus,1,Recreo Suteba - Tigre,AR-B,17 Dec 2021,L17131405,S99074268,,1
+37,12955,species,White-eyed Parakeet,Psittacara leucophthalmus,2,Parque 3 de Febrero (Bosques de Palermo),AR-C,14 Dec 2021,L1295521,S98880887,,1
+41,23687,species,Brown-chested Martin,Progne tapera,3,Reserva Ecológica Costanera Sur,AR-C,12 Dec 2021,L472208,S98881131,,1
+42,18914,species,Chivi Vireo,Vireo chivi,6,Reserva Ecológica Costanera Sur,AR-C,12 Dec 2021,L472208,S98881131,,1
+43,16397,species,Olivaceous Elaenia,Elaenia mesoleuca,1,Reserva Ecológica Costanera Sur,AR-C,12 Dec 2021,L472208,S98881131,,1
+46,6853,species,Wilson's Storm-Petrel,Oceanites oceanicus,3,"Gulf of Maine, Gouldsboro US-ME (44.3503,-67.9327)",US-ME,01 Jul 2021,L15597555,S91085132,,1
+47,6699,species,Roseate Tern,Sterna dougallii,1,"Gulf of Maine, Gouldsboro US-ME (44.3503,-67.9327)",US-ME,01 Jul 2021,L15597555,S91085132,,1
+49,6672,species,Arctic Tern,Sterna paradisaea,2,"Gulf of Maine, Gouldsboro US-ME (44.3503,-67.9327)",US-ME,01 Jul 2021,L15597555,S91085132,,1
+50,6356,species,Black Guillemot,Cepphus grylle,35,"Gulf of Maine, Gouldsboro US-ME (44.3503,-67.9327)",US-ME,01 Jul 2021,L15597555,S91085132,,1
+51,6339,species,Atlantic Puffin,Fratercula arctica,80,"Gulf of Maine, Gouldsboro US-ME (44.3503,-67.9327)",US-ME,01 Jul 2021,L15597555,S91085132,,1
+52,3235,species,Black-billed Cuckoo,Coccyzus erythropthalmus,2,Mount Greylock State Reservation--Jones Nose,US-MA,24 Jun 2021,L15005343,S90713647,,1
+53,20696,species,Northern Shrike,Lanius borealis,1,Berkshire Community College--Fields,US-MA,23 Feb 2021,L5105541,S82218553,,1
+54,31563,species,Evening Grosbeak,Coccothraustes vespertinus,13,Cherokee NF--Wilbur Lake,US-TN,26 Dec 2020,L482506,S78018230,,1
+55,3630,species,Eastern Whip-poor-will,Antrostomus vociferus,1,George Washington,US-WV,10 Jul 2020,L11884684,S71404194,,1
+56,16642,species,Alder Flycatcher,Empidonax alnorum,1,Spruce Knob Lake,US-WV,27 Jun 2020,L1258905,S70910254,,1
+58,6028,species,Long-billed Dowitcher,Limnodromus scolopaceus,8,Messick Point,US-VA,27 Apr 2020,L2153527,S67946551,,1
+59,6607,species,Sooty Tern,Onychoprion fuscatus,5,Bill Jessee Park,US-VA,06 Sep 2019,L9885140,S59569036,,1
+63,397,species,Egyptian Goose,Alopochen aegyptiaca,2,Bill Baggs Cape Florida SP,US-FL,31 Jul 2019,L127423,S58614590,N,1
+64,15315,species,Spix's Spinetail,Synallaxis spixi,1,Reserva Ecológica Costanera Sur,AR-C,24 Jul 2019,L472208,S58421483,,1
+65,5457,species,Red-fronted Coot,Fulica rufifrons,3,Reserva Ecológica Costanera Sur,AR-C,24 Jul 2019,L472208,S58421483,,1
+66,15059,species,Araucaria Tit-Spinetail,Leptasthenura setaria,2,"Ruta Nacional 12, Iguazú AR-Misiones (-25.9831,-54.5820)",AR-N,22 Jul 2019,L9680870,S58373391,,1
+67,34648,species,Guira Tanager,Hemithraupis guira,1,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+68,34156,species,Chestnut-headed Tanager,Thlypopsis pyrrhocoma,1,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+69,34107,species,Magpie Tanager,Cissopis leverianus,3,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+70,33757,species,White-browed Warbler,Myiothlypis leucoblephara,6,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+71,16036,species,Drab-breasted Pygmy-Tyrant,Hemitriccus diops,1,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+72,15867,species,White-throated Spadebill,Platyrinchus mystaceus,1,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+73,15302,species,Rufous-capped Spinetail,Synallaxis ruficapilla,1,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+74,15277,species,Gray-bellied Spinetail,Synallaxis cinerascens,3,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+75,14876,species,Ochre-breasted Foliage-gleaner,Anabacerthia lichtensteini,3,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+76,14771,species,Sharp-tailed Streamcreeper,Lochmias nematura,2,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+77,14514,species,Lesser Woodcreeper,Xiphorhynchus fuscus,1,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+78,14331,species,Olivaceous Woodcreeper,Sittasomus griseicapillus,3,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+79,13600,species,Bertoni's Antbird,Drymophila rubricollis,2,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+80,13317,species,Variable Antshrike,Thamnophilus caerulescens,4,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+81,13204,species,Tufted Antshrike,Mackenziaena severa,2,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+82,12638,species,Scaly-headed Parrot,Pionus maximiliani,4,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+83,9355,species,Atlantic Black-throated Trogon,Trogon chrysochloros,2,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+84,75,species,Brown Tinamou,Crypturellus obsoletus,4,"AR-Misiones-Iguazú (-25.8644,-54.1962)",AR-N,22 Jul 2019,L9680879,S58373463,,1
+85,15663,species,Black-crowned Tityra,Tityra inquisitor,2,"PR-012, Foz do Iguaçu BR-PR (-25.5751,-54.5517)",BR-PR,21 Jul 2019,L9675819,S58347831,,1
+86,31548,species,Chestnut-bellied Euphonia,Euphonia pectoralis,2,Jardín de Picaflores,AR-N,21 Jul 2019,L496649,S58355060,,1
+87,13237,species,Barred Antshrike,Thamnophilus doliatus,1,Jardín de Picaflores,AR-N,21 Jul 2019,L496649,S58355060,,1
+88,5000,species,Swallow-tailed Hummingbird,Eupetomena macroura,1,Jardín de Picaflores,AR-N,21 Jul 2019,L496649,S58355060,,1
+89,4958,species,Fork-tailed Woodnymph,Thalurania furcata,1,Jardín de Picaflores,AR-N,21 Jul 2019,L496649,S58355060,,1
+90,4942,species,Violet-capped Woodnymph,Thalurania glaucopis,6,Jardín de Picaflores,AR-N,21 Jul 2019,L496649,S58355060,,1
+91,4307,species,Planalto Hermit,Phaethornis pretrei,1,Jardín de Picaflores,AR-N,21 Jul 2019,L496649,S58355060,,1
+92,34187,species,Black-goggled Tanager,Trichothraupis melanops,5,"Iguazu National Park, Iguazú AR-Misiones (-25.6749,-54.4554)",AR-N,20 Jul 2019,L9670960,S58324316,,1
+93,33912,species,Red-crowned Ant-Tanager,Habia rubica,,"Iguazu National Park, Iguazú AR-Misiones (-25.6749,-54.4554)",AR-N,20 Jul 2019,L9670960,S58324316,,1
+94,28029,species,White-necked Thrush,Turdus albicollis,4,"Iguazu National Park, Iguazú AR-Misiones (-25.6749,-54.4554)",AR-N,20 Jul 2019,L9670960,S58324316,,1
+95,16954,species,Sibilant Sirystes,Sirystes sibilator,1,"Iguazu National Park, Iguazú AR-Misiones (-25.6749,-54.4554)",AR-N,20 Jul 2019,L9670960,S58324316,,1
+96,15996,species,Eared Pygmy-Tyrant,Myiornis auricularis,1,"Iguazu National Park, Iguazú AR-Misiones (-25.6749,-54.4554)",AR-N,20 Jul 2019,L9670960,S58324316,,1
+97,14999,species,White-eyed Foliage-gleaner,Automolus leucophthalmus,1,"Iguazu National Park, Iguazú AR-Misiones (-25.6749,-54.4554)",AR-N,20 Jul 2019,L9670960,S58324316,,1
+98,13687,species,White-shouldered Fire-eye,Pyriglena leucoptera,1,"Iguazu National Park, Iguazú AR-Misiones (-25.6749,-54.4554)",AR-N,20 Jul 2019,L9670960,S58324316,,1
+99,13554,species,Rufous-margined Antwren,Herpsilochmus rufimarginatus,1,"Iguazu National Park, Iguazú AR-Misiones (-25.6749,-54.4554)",AR-N,20 Jul 2019,L9670960,S58324316,,1
+100,11857,species,Bat Falcon,Falco rufigularis,1,"Iguazu National Park, Iguazú AR-Misiones (-25.6749,-54.4554)",AR-N,20 Jul 2019,L9670960,S58324316,,1
+101,11595,species,Blond-crested Woodpecker,Celeus flavescens,1,"Iguazu National Park, Iguazú AR-Misiones (-25.6749,-54.4554)",AR-N,20 Jul 2019,L9670960,S58324316,,1
+102,10852,species,Ochre-collared Piculet,Picumnus temminckii,1,"Iguazu National Park, Iguazú AR-Misiones (-25.6749,-54.4554)",AR-N,20 Jul 2019,L9670960,S58324316,,1
+103,9605,species,Rufous-capped Motmot,Baryphthengus ruficapillus,1,"Iguazu National Park, Iguazú AR-Misiones (-25.6749,-54.4554)",AR-N,20 Jul 2019,L9670960,S58324316,,1
+104,8127,species,Bicolored Hawk,Accipiter bicolor,1,"Iguazu National Park, Iguazú AR-Misiones (-25.6749,-54.4554)",AR-N,20 Jul 2019,L9670960,S58324316,,1
+105,855,species,Rusty-margined Guan,Penelope superciliaris,2,"Iguazu National Park, Iguazú AR-Misiones (-25.6749,-54.4554)",AR-N,20 Jul 2019,L9670960,S58324316,,1
+106,33389,species,Chopi Blackbird,Gnorimopsar chopi,4,PN Iguazú--Área Cataratas,AR-N,19 Jul 2019,L472205,S58303528,,1
+107,10705,species,Toco Toucan,Ramphastos toco,1,PN Iguazú--Área Cataratas,AR-N,19 Jul 2019,L472205,S58303528,,1
+108,10681,species,Chestnut-eared Aracari,Pteroglossus castanotis,3,PN Iguazú--Área Cataratas,AR-N,19 Jul 2019,L472205,S58303528,,1
+109,3815,species,Great Dusky Swift,Cypseloides senex,30,PN Iguazú--Área Cataratas,AR-N,19 Jul 2019,L472205,S58303528,,1
+110,34521,species,Green-headed Tanager,Tangara seledon,2,Hospedaje José Gorgues (y alrededores),AR-N,19 Jul 2019,L9662022,S58303339,,1
+111,33134,species,Red-rumped Cacique,Cacicus haemorrhous,1,Hospedaje José Gorgues (y alrededores),AR-N,19 Jul 2019,L9662022,S58303339,,1
+112,31504,species,Violaceous Euphonia,Euphonia violacea,7,Hospedaje José Gorgues (y alrededores),AR-N,19 Jul 2019,L9662022,S58303339,,1
+113,31482,species,Purple-throated Euphonia,Euphonia chlorotica,1,Hospedaje José Gorgues (y alrededores),AR-N,19 Jul 2019,L9662022,S58303339,,1
+114,27995,species,Pale-breasted Thrush,Turdus leucomelas,1,Hospedaje José Gorgues (y alrededores),AR-N,19 Jul 2019,L9662022,S58303339,,1
+115,5135,species,White-throated Hummingbird,Leucochloris albicollis,5,Hospedaje José Gorgues (y alrededores),AR-N,19 Jul 2019,L9662022,S58303339,,1
+116,5103,species,Versicolored Emerald,Chrysuronia versicolor,5,Hospedaje José Gorgues (y alrededores),AR-N,19 Jul 2019,L9662022,S58303339,,1
+117,4308,species,Scale-throated Hermit,Phaethornis eurynome,1,Hospedaje José Gorgues (y alrededores),AR-N,19 Jul 2019,L9662022,S58303339,,1
+118,4206,species,Black Jacobin,Florisuga fusca,4,Hospedaje José Gorgues (y alrededores),AR-N,19 Jul 2019,L9662022,S58303339,,1
+119,2286,species,Ruddy Ground Dove,Columbina talpacoti,5,Hospedaje José Gorgues (y alrededores),AR-N,19 Jul 2019,L9662022,S58303339,,1
+120,16855,species,Streamer-tailed Tyrant,Gubernetes yetapa,1,"Ruta Provincial 41, Santo Tome AR-Corrientes (-28.1778,-56.7094)",AR-W,18 Jul 2019,L9662034,S58280345,,1
+121,8608,species,Tropical Screech-Owl,Megascops choliba,1,Laguna Iberá--Centro de Interpretación Aguas Brillantes,AR-W,17 Jul 2019,L3913244,S58261067,,1
+122,3572,species,Little Nightjar,Setopagis parvula,1,Laguna Iberá--Centro de Interpretación Aguas Brillantes,AR-W,17 Jul 2019,L3913244,S58261067,,1
+123,35084,species,Yellow Cardinal,Gubernatrix cristata,1,PN Iberá--Portal Laguna Iberá (Carlos Pellegrini y Laguna Iberá),AR-W,17 Jul 2019,L484766,S58262324,,1
+124,34225,species,White-lined Tanager,Tachyphonus rufus,2,PN Iberá--Portal Laguna Iberá (Carlos Pellegrini y Laguna Iberá),AR-W,17 Jul 2019,L484766,S58262324,,1
+125,33415,species,Yellow-rumped Marshbird,Pseudoleistes guirahuro,12,PN Iberá--Portal Laguna Iberá (Carlos Pellegrini y Laguna Iberá),AR-W,17 Jul 2019,L484766,S58262324,,1
+126,16756,species,Blue-billed Black-Tyrant,Knipolegus cyanirostris,1,PN Iberá--Portal Laguna Iberá (Carlos Pellegrini y Laguna Iberá),AR-W,17 Jul 2019,L484766,S58262324,,1
+127,16055,species,Pearly-vented Tody-Tyrant,Hemitriccus margaritaceiventer,1,PN Iberá--Portal Laguna Iberá (Carlos Pellegrini y Laguna Iberá),AR-W,17 Jul 2019,L484766,S58262324,,1
+128,15257,species,Yellow-chinned Spinetail,Certhiaxis cinnamomeus,4,PN Iberá--Portal Laguna Iberá (Carlos Pellegrini y Laguna Iberá),AR-W,17 Jul 2019,L484766,S58262324,,1
+129,8225,species,Great Black Hawk,Buteogallus urubitinga,1,PN Iberá--Portal Laguna Iberá (Carlos Pellegrini y Laguna Iberá),AR-W,17 Jul 2019,L484766,S58262324,,1
+130,7944,species,Long-winged Harrier,Circus buffoni,1,PN Iberá--Portal Laguna Iberá (Carlos Pellegrini y Laguna Iberá),AR-W,17 Jul 2019,L484766,S58262324,,1
+131,7914,species,Black-collared Hawk,Busarellus nigricollis,1,PN Iberá--Portal Laguna Iberá (Carlos Pellegrini y Laguna Iberá),AR-W,17 Jul 2019,L484766,S58262324,,1
+132,7631,species,Lesser Yellow-headed Vulture,Cathartes burrovianus,1,PN Iberá--Portal Laguna Iberá (Carlos Pellegrini y Laguna Iberá),AR-W,17 Jul 2019,L484766,S58262324,,1
+133,33476,species,Southern Yellowthroat,Geothlypis velata,2,"Calle Yacaré 101–199, San Martín AR-Corrientes (-28.5378,-57.1819)",AR-W,16 Jul 2019,L9651949,S58233752,,1
+134,23542,species,Black-capped Donacobius,Donacobius atricapilla,2,"Calle Yacaré 101–199, San Martín AR-Corrientes (-28.5378,-57.1819)",AR-W,16 Jul 2019,L9651949,S58233752,,1
+135,16339,species,Warbling Doradito,Pseudocolopteryx flaviventris,1,"Calle Yacaré 101–199, San Martín AR-Corrientes (-28.5378,-57.1819)",AR-W,16 Jul 2019,L9651949,S58233752,,1
+136,15078,species,Greater Thornbird,Phacellodomus ruber,1,"Calle Yacaré 101–199, San Martín AR-Corrientes (-28.5378,-57.1819)",AR-W,16 Jul 2019,L9651949,S58233752,,1
+137,34960,species,White-bellied Seedeater,Sporophila leucoptera,2,"AR-Corrientes-San Martín (-28.5413,-57.2037)",AR-W,16 Jul 2019,L9651088,S58229632,,1
+138,16848,species,White-headed Marsh Tyrant,Arundinicola leucocephala,2,"AR-Corrientes-San Martín (-28.5413,-57.2037)",AR-W,16 Jul 2019,L9651088,S58229632,,1
+139,6079,species,Pantanal Snipe,Gallinago paraguaiae,1,"AR-Corrientes-San Martín (-28.5413,-57.2037)",AR-W,16 Jul 2019,L9651088,S58229632,,1
+140,5609,species,Rufous-sided Crake,Laterallus melanophaius,1,"AR-Corrientes-San Martín (-28.5413,-57.2037)",AR-W,16 Jul 2019,L9651088,S58229632,,1
+141,423,species,Muscovy Duck,Cairina moschata,2,"AR-Corrientes-San Martín (-28.5413,-57.2037)",AR-W,16 Jul 2019,L9651088,S58229632,,1
+142,10,species,Greater Rhea,Rhea americana,9,"Ruta Provincial 41, Ituzaingó AR-Corrientes (-27.7453,-56.4760)",AR-W,16 Jul 2019,L9662061,S58280459,,1
+143,35031,species,Double-collared Seedeater,Sporophila caerulescens,2,Reserva Ecológica Costanera Sur,AR-C,10 Jul 2019,L472208,S58078272,,1
+144,16770,species,Yellow-browed Tyrant,Satrapa icterophrys,1,Reserva Ecológica Costanera Sur,AR-C,10 Jul 2019,L472208,S58078272,,1
+145,362,species,Black-necked Swan,Cygnus melancoryphus,14,Reserva Ecológica Costanera Sur,AR-C,10 Jul 2019,L472208,S58078272,,1
+146,32815,species,Abert's Towhee,Melozone aberti,7,Sweetwater Wetlands,US-AZ,06 Apr 2019,L208918,S54623677,,1
+147,32478,species,Brewer's Sparrow,Spizella breweri,1,"Saguaro NP--East--Rincon Mountains Unit  (Historical, please do not use for current lists)",US-AZ,05 Apr 2019,L129073,S54599106,,1
+148,32381,species,Rufous-winged Sparrow,Peucaea carpalis,4,"Saguaro NP--East--Rincon Mountains Unit  (Historical, please do not use for current lists)",US-AZ,05 Apr 2019,L129073,S54599106,,1
+150,16656,species,Gray Flycatcher,Empidonax wrightii,2,"Saguaro NP--East--Rincon Mountains Unit  (Historical, please do not use for current lists)",US-AZ,05 Apr 2019,L129073,S54599106,,1
+151,8653,species,Western Screech-Owl,Megascops kennicottii,1,Mescal Rd. campsite,US-AZ,05 Apr 2019,L8999793,S54691925,,1
+152,33453,species,Lucy's Warbler,Leiothlypis luciae,5,Rincons--Miller Creek trailhead area,US-AZ,04 Apr 2019,L4998654,S54690972,,1
+153,4837,species,Broad-billed Hummingbird,Cynanthus latirostris,1,Rincons--Miller Creek trailhead area,US-AZ,04 Apr 2019,L4998654,S54690972,,1
+154,33657,species,Black-throated Gray Warbler,Setophaga nigrescens,2,Chiricahua NM--Massai Point,US-AZ,04 Apr 2019,L5131983,S54692225,,1
+155,11237,species,Arizona Woodpecker,Dryobates arizonae,1,Chiricahua NM--Massai Point,US-AZ,04 Apr 2019,L5131983,S54692225,,1
+157,1065,species,Montezuma Quail,Cyrtonyx montezumae,2,Turkey Creek rd.,US-AZ,03 Apr 2019,L9009818,S54755247,,1
+158,32619,species,Yellow-eyed Junco,Junco phaeonotus,15,Pole Bridge Canyon -> Raspberry Ridge -> Morse Canyon loop,US-AZ,03 Apr 2019,L9009811,S54644856,,1
+159,30181,species,Olive Warbler,Peucedramus taeniatus,1,Pole Bridge Canyon -> Raspberry Ridge -> Morse Canyon loop,US-AZ,03 Apr 2019,L9009811,S54644856,,1
+160,16679,species,Buff-breasted Flycatcher,Empidonax fulvifrons,1,Pole Bridge Canyon -> Raspberry Ridge -> Morse Canyon loop,US-AZ,03 Apr 2019,L9009811,S54644856,,1
+161,8593,species,Flammulated Owl,Psiloscops flammeolus,2,Pinery Canyon campsite,US-AZ,03 Apr 2019,L8991810,S54648390,,1
+162,690,species,White-winged Scoter,Melanitta deglandi,1,King-Lincoln Park,US-VA,25 Jan 2019,L5292802,S52019674,,1
+164,27597,species,LeConte's Thrasher,Toxostoma lecontei,1,"Joshua Tree National Park, Joshua Tree US-CA (34.0810,-116.2424)",US-CA,27 Dec 2018,L8310558,S51000171,,1
+165,20908,species,California Scrub-Jay,Aphelocoma californica,1,"51092 Cheyenne Trl, Morongo Valley US-CA (34.0882,-116.5506)",US-CA,26 Dec 2018,L8306623,S50980023,,1
+166,6539,species,California Gull,Larus californicus,,"9526–9530 Avenue B, Niland US-CA (33.3489,-115.7328)",US-CA,26 Dec 2018,L8306628,S50980043,,1
+167,33041,species,Western Meadowlark,Sturnella neglecta,2,Kershaw Rd. pond,US-CA,26 Dec 2018,L981546,S50972497,,1
+168,1867,species,Clark's Grebe,Aechmophorus clarkii,1,Kershaw Rd. pond,US-CA,26 Dec 2018,L981546,S50972497,,1
+169,11679,species,Gilded Flicker,Colaptes chrysoides,3,Desert Botanical Garden,US-AZ,24 Dec 2018,L210015,S50928143,,1
+170,10957,species,Gila Woodpecker,Melanerpes uropygialis,3,Desert Botanical Garden,US-AZ,24 Dec 2018,L210015,S50928143,,1
+171,4790,species,Costa's Hummingbird,Calypte costae,4,Desert Botanical Garden,US-AZ,24 Dec 2018,L210015,S50928143,,1
+173,8339,species,Ferruginous Hawk,Buteo regalis,1,"N Fain Rd, Dewey US-AZ (34.5902,-112.2682)",US-AZ,23 Dec 2018,L8294522,S50910458,,1
+174,1056,species,Gambel's Quail,Callipepla gambelii,4,"Coconino National Forest, Sedona US-AZ (34.8762,-111.7593)",US-AZ,22 Dec 2018,L8289129,S50875172,,1
+175,21766,species,Juniper Titmouse,Baeolophus ridgwayi,4,Red Rock SP,US-AZ,22 Dec 2018,L266622,S50868065,,1
+176,21756,species,Bridled Titmouse,Baeolophus wollweberi,14,Red Rock SP,US-AZ,22 Dec 2018,L266622,S50868065,,1
+177,24829,species,Bushtit,Psaltriparus minimus,12,"Coconino National Forest, Sedona US-AZ (34.8759,-111.7592)",US-AZ,21 Dec 2018,L8284192,S50849603,,1
+178,20879,species,Steller's Jay,Cyanocitta stelleri,2,Frances Short Pond,US-AZ,21 Dec 2018,L1833473,S50839296,,1
+179,27672,species,Western Bluebird,Sialia mexicana,6,"(36.0589,-112.1084)",US-AZ,20 Dec 2018,L8281443,S50833559,,1
+180,26471,species,Pygmy Nuthatch,Sitta pygmaea,2,"(36.0589,-112.1084)",US-AZ,20 Dec 2018,L8281443,S50833559,,1
+181,21688,species,Mountain Chickadee,Poecile gambeli,1,"(36.0589,-112.1084)",US-AZ,20 Dec 2018,L8281443,S50833559,,1
+182,20918,species,Woodhouse's Scrub-Jay,Aphelocoma woodhouseii,5,"(36.0589,-112.1084)",US-AZ,20 Dec 2018,L8281443,S50833559,,1
+184,6772,species,Pacific Loon,Gavia pacifica,1,Sherwood Lakes,US-VA,07 Nov 2018,L2071147,S49743707,,1
+186,31804,species,Purple Finch,Haemorhous purpureus,1,Hilton Village,US-VA,01 Nov 2018,L11078212,S49595138,,1
+190,31977,species,Red Crossbill,Loxia curvirostra,18,Briery Branch Gap,US-VA,28 Sep 2018,L4225264,S48819517,,1
+193,32688,species,Vesper Sparrow,Pooecetes gramineus,2,Hornsby Bend (HOTE 037),US-TX,07 Apr 2018,L130766,S44330769,,1
+194,33674,species,Golden-cheeked Warbler,Setophaga chrysoparia,2,Pedernales Falls State Park (HOTE 050),US-TX,06 Apr 2018,L129053,S44303524,,1
+196,8888,species,Elf Owl,Micrathene whitneyi,1,Big Bend NP--Rio Grande Village (FWTX 44),US-TX,03 Apr 2018,L128907,S44424566,,1
+199,9068,species,Short-eared Owl,Asio flammeus,1,Messick Point,US-VA,04 Mar 2018,L2153527,S43383780,,1
+200,6434,species,Black-headed Gull,Chroicocephalus ridibundus,1,Rudee Inlet,US-VA,10 Feb 2018,L285056,S42639612,,1
+202,558,species,Northern Pintail,Anas acuta,8,Dutch Gap Conservation Area/Henricus Historical Park,US-VA,15 Jan 2018,L207180,S41930506,,1
+206,661,species,Lesser Scaup,Aythya affinis,3,King-Lincoln Park,US-VA,08 Jan 2018,L5292802,S41753428,,1
+207,655,species,Greater Scaup,Aythya marila,2,King-Lincoln Park,US-VA,08 Jan 2018,L5292802,S41753428,,1
+208,485,species,Eurasian Wigeon,Mareca penelope,1,Chincoteague NWR--Swan Cove,US-VA,22 Dec 2017,L159289,S41253526,,1
+209,35144,species,Greater Antillean Bullfinch,Melopyrrha violacea,2,Padre Nuestro Trail,DO-11,09 Aug 2017,L6168410,S38568540,,1
+210,30328,species,Village Weaver,Ploceus cucullatus,3,Padre Nuestro Trail,DO-11,09 Aug 2017,L6168410,S38568540,N,1
+211,18933,species,Black-whiskered Vireo,Vireo altiloquus,3,Padre Nuestro Trail,DO-11,09 Aug 2017,L6168410,S38568540,,1
+212,17038,species,Stolid Flycatcher,Myiarchus stolidus,3,Padre Nuestro Trail,DO-11,09 Aug 2017,L6168410,S38568540,,1
+213,9558,species,Broad-billed Tody,Todus subulatus,4,Padre Nuestro Trail,DO-11,09 Aug 2017,L6168410,S38568540,,1
+214,3248,species,Hispaniolan Lizard-Cuckoo,Coccyzus longirostris,1,Padre Nuestro Trail,DO-11,09 Aug 2017,L6168410,S38568540,,1
+215,2337,species,Key West Quail-Dove,Geotrygon chrysia,1,Padre Nuestro Trail,DO-11,09 Aug 2017,L6168410,S38568540,,1
+216,33003,species,Black-crowned Palm-Tanager,Phaenicophilus palmarum,1,Ocean Blue and Sand Resort,DO-11,07 Aug 2017,L6159275,S38532931,,1
+217,30559,species,Scaly-breasted Munia,Lonchura punctulata,5,Ocean Blue and Sand Resort,DO-11,07 Aug 2017,L6159275,S38524121,N,1
+218,29410,species,Palmchat,Dulus dominicus,8,Ocean Blue and Sand Resort,DO-11,07 Aug 2017,L6159275,S38524121,,1
+219,10942,species,Hispaniolan Woodpecker,Melanerpes striatus,3,Ocean Blue and Sand Resort,DO-11,07 Aug 2017,L6159275,S38524121,,1
+221,33355,species,Greater Antillean Grackle,Quiscalus niger,1,Ocean Blue and Sand Resort,DO-11,06 Aug 2017,L6159275,S38516166,,1
+222,4164,species,Antillean Palm Swift,Tachornis phoenicobia,10,Ocean Blue and Sand Resort,DO-11,06 Aug 2017,L6159275,S38516166,,1
+223,551,species,White-cheeked Pintail,Anas bahamensis,1,Ocean Blue and Sand Resort,DO-11,06 Aug 2017,L6159275,S38516166,,1
+224,6180,species,Baird's Sandpiper,Calidris bairdii,3,Hornsby Bend (HOTE 037),US-TX,04 Aug 2017,L130766,S38473887,,1
+225,6147,species,Stilt Sandpiper,Calidris himantopus,3,Hornsby Bend (HOTE 037),US-TX,04 Aug 2017,L130766,S38473887,,1
+227,33210,species,Bullock's Oriole,Icterus bullockii,3,Chaparral WMA (La Salle Co. portion),US-TX,03 Aug 2017,L2577377,S38461672,,1
+228,33233,species,Audubon's Oriole,Icterus graduacauda,2,San Ygnacio Bird Sanctuary & riverfront (LTC 087),US-TX,03 Aug 2017,L129083,S38457345,,1
+229,33987,species,Pyrrhuloxia,Cardinalis sinuatus,3,Falcon State Park—SE portion (Starr Co.)  (LTC 084),US-TX,02 Aug 2017,L128962,S38450984,,1
+230,3500,species,Lesser Nighthawk,Chordeiles acutipennis,1,Falcon State Park—SE portion (Starr Co.)  (LTC 084),US-TX,02 Aug 2017,L128962,S38450984,,1
+231,33226,species,Altamira Oriole,Icterus gularis,2,Santa Ana NWR (LTC 059),US-TX,02 Aug 2017,L129085,S38445792,,1
+232,7657,species,White-tailed Kite,Elanus leucurus,1,"8000–8618 E Military Hwy, Donna US-TX (26.0749,-98.0471)",US-TX,02 Aug 2017,L6145705,S38441595,,1
+233,7406,species,Reddish Egret,Egretta rufescens,1,South Padre Is.--Birding and Nature Center,US-TX,01 Aug 2017,L770565,S38435303,,1
+236,32087,species,Lesser Goldfinch,Spinus psaltria,1,Sabal Palm Sanctuary (LTC 042),US-TX,01 Aug 2017,L129070,S38428764,,1
+237,27580,species,Long-billed Thrasher,Toxostoma longirostre,4,Sabal Palm Sanctuary (LTC 042),US-TX,01 Aug 2017,L129070,S38428764,,1
+238,20837,species,Green Jay,Cyanocorax yncas,10,Sabal Palm Sanctuary (LTC 042),US-TX,01 Aug 2017,L129070,S38428764,,1
+240,17144,species,Couch's Kingbird,Tyrannus couchii,7,Sabal Palm Sanctuary (LTC 042),US-TX,01 Aug 2017,L129070,S38428764,,1
+241,5073,species,Buff-bellied Hummingbird,Amazilia yucatanensis,1,Sabal Palm Sanctuary (LTC 042),US-TX,01 Aug 2017,L129070,S38428764,,1
+242,811,species,Plain Chachalaca,Ortalis vetula,11,Sabal Palm Sanctuary (LTC 042),US-TX,01 Aug 2017,L129070,S38428764,,1
+243,3508,species,Common Nighthawk,Chordeiles minor,4,"17001–18299 Expressway 77 N, Raymondville US-TX (26.5558,-97.7725)",US-TX,31 Jul 2017,L6149708,S38463934,,1
+244,33156,species,Hooded Oriole,Icterus cucullatus,2,Sacahuistale Flats (LTC 013),US-TX,31 Jul 2017,L504328,S38419299,,1
+245,32436,species,Olive Sparrow,Arremonops rufivirgatus,1,Sacahuistale Flats (LTC 013),US-TX,31 Jul 2017,L504328,S38419299,,1
+246,32394,species,Botteri's Sparrow,Peucaea botterii,2,Sacahuistale Flats (LTC 013),US-TX,31 Jul 2017,L504328,S38419299,,1
+247,6664,species,Black Tern,Chlidonias niger,3,Riviera School pond,US-TX,31 Jul 2017,L1317883,S38417239,,1
+248,628,species,Redhead,Aythya americana,2,Hornsby Bend (HOTE 037),US-TX,31 Jul 2017,L130766,S38419321,,1
+249,17152,species,Western Kingbird,Tyrannus verticalis,6,"701 Center Ridge Dr, Austin US-TX (30.4135,-97.6687)",US-TX,28 Jul 2017,L6131396,S38364120,,1
+250,17172,species,Scissor-tailed Flycatcher,Tyrannus forficatus,1,"6547–6961 N US Highway 183, Lockhart US-TX (29.9793,-97.6812)",US-TX,28 Jul 2017,L6130440,S38358837,,1
+251,31790,species,House Finch,Haemorhous mexicanus,1,Roy G. Guerrero Colorado River Metro Park,US-TX,28 Jul 2017,L567534,S38357985,,1
+253,5978,species,Whimbrel,Numenius phaeopus,2,Magothy Bay Natural Area Preserve,US-VA,17 Jul 2017,L1007732,S38187575,,1
+254,23636,species,Bank Swallow,Riparia riparia,2,"Post Farm Marsh, Lenox",US-MA,05 Jul 2017,L740657,S37981604,,1
+256,16643,species,Willow Flycatcher,Empidonax traillii,1,Berkshire Community College--Fields,US-MA,03 Jul 2017,L5105541,S37941348,,1
+259,979,species,Northern Bobwhite,Colinus virginianus,1,"13097–13411 Burwells Bay Rd, Smithfield US-VA (37.0536,-76.6909)",US-VA,27 Jun 2017,L6025291,S37830488,,1
+260,33484,species,Kentucky Warbler,Geothlypis formosa,4,"8501 Wrenns Mill Rd, Smithfield US-VA (37.0230,-76.6717)",US-VA,27 Jun 2017,L6025053,S37829109,,1
+261,7926,species,Mississippi Kite,Ictinia mississippiensis,1,Curtiss Drive (Mississippi Kite Spot),US-VA,26 Jun 2017,L3625080,S37808828,,1
+262,23861,species,Cliff Swallow,Petrochelidon pyrrhonota,4,Brown's Island,US-VA,24 Jun 2017,L619779,S37774912,,1
+263,17176,species,Fork-tailed Flycatcher,Tyrannus savana,1,**Back Bay NWR,US-VA,20 Jun 2017,L718307,S37701025,,1
+265,32413,species,Grasshopper Sparrow,Ammodramus savannarum,2,Stony Run Athletic Complex,US-VA,26 May 2017,L5042910,S37151223,,1
+266,33532,species,Cerulean Warbler,Setophaga cerulea,9,Warbler Road--FR 812 (Parkers Gap to Sunset Field),US-VA,21 May 2017,L2118736,S37043603,,1
+267,8293,species,Broad-winged Hawk,Buteo platypterus,1,Warbler Road--FR 812 (Parkers Gap to Sunset Field),US-VA,21 May 2017,L2118736,S37043603,,1
+268,33437,species,Swainson's Warbler,Limnothlypis swainsonii,2,Great Dismal Swamp NWR--Railroad Ditch,US-VA,16 Apr 2017,L693507,S36010291,,1
+269,6526,species,Lesser Black-backed Gull,Larus fuscus,1,Biscayne NP,US-FL,07 Apr 2017,L127431,S35760816,,1
+270,1976,species,White-crowned Pigeon,Patagioenas leucocephala,1,Everglades NP--Mahogany Hammock,US-FL,06 Apr 2017,L123123,S35741731,,1
+271,6192,species,Western Sandpiper,Calidris mauri,2,Bahia Honda SP,US-FL,04 Apr 2017,L127445,S35702816,,1
+272,5894,species,Wilson's Plover,Anarhynchus wilsonia,1,Bahia Honda SP,US-FL,04 Apr 2017,L127445,S35702816,,1
+273,5807,species,Piping Plover,Charadrius melodus,5,Bahia Honda SP,US-FL,04 Apr 2017,L127445,S35702816,,1
+274,7288,species,American White Pelican,Pelecanus erythrorhynchos,18,Everglades NP--Guy Bradley Trail,US-FL,04 Apr 2017,L1886778,S35686783,,1
+276,7614,species,Roseate Spoonbill,Platalea ajaja,1,Everglades NP--Shark Valley: Tram Rd. & Observation Tower,US-FL,03 Apr 2017,L1050601,S35671638,,1
+278,34074,species,Painted Bunting,Passerina ciris,2,Richardson Historic Park and Nature Preserve,US-FL,01 Apr 2017,L1161428,S35619467,,1
+279,33531,species,Cape May Warbler,Setophaga tigrina,2,Loxahatchee NWR--Cypress Swamp Boardwalk,US-FL,01 Apr 2017,L1101205,S35606587,,1
+280,5507,species,Gray-headed Swamphen,Porphyrio poliocephalus,1,Wakodahatchee Wetlands,US-FL,01 Apr 2017,L143084,S35604114,N,1
+282,541,species,Mottled Duck,Anas fulvigula,3,"Weekiwachee Preserve, east of Shoal Line Boulevard",US-FL,19 Mar 2017,L499776,S35299884,,1
+283,6372,species,Razorbill,Alca torda,10,**Back Bay NWR,US-VA,29 Jan 2017,L718307,S34021967,,1
+284,627,species,Canvasback,Aythya valisineria,8,**Back Bay NWR,US-VA,29 Jan 2017,L718307,S34021967,,1
+286,33322,species,Rusty Blackbird,Euphagus carolinus,1,Gildersleeve School Pond,US-VA,26 Jan 2017,L3546717,S33944594,,1
+287,33332,species,Boat-tailed Grackle,Quiscalus major,5,**CHINCOTEAGUE NWR,US-VA,16 Jan 2017,L718378,S33739824,,1
+288,8704,species,Snowy Owl,Bubo scandiacus,1,**CHINCOTEAGUE NWR,US-VA,16 Jan 2017,L718378,S33739824,,1
+289,700,species,Long-tailed Duck,Clangula hyemalis,2,**CHINCOTEAGUE NWR,US-VA,16 Jan 2017,L718378,S33739824,,1
+290,688,species,Surf Scoter,Melanitta perspicillata,27,**CHINCOTEAGUE NWR,US-VA,16 Jan 2017,L718378,S33739824,,1
+291,6031,species,American Woodcock,Scolopax minor,1,Eastern Shore of Virginia NWR,US-VA,15 Jan 2017,L718426,S33703439,,1
+292,6171,species,Purple Sandpiper,Calidris maritima,2,CBBT--South Thimble Island (#1),US-VA,15 Jan 2017,L132236,S33703216,,1
+293,1842,species,Horned Grebe,Podiceps auritus,2,CBBT--South Thimble Island (#1),US-VA,15 Jan 2017,L132236,S33703216,,1
+295,11825,species,Merlin,Falco columbarius,1,Stony Run Athletic Complex,US-VA,11 Jan 2017,L5042910,S33601813,,1
+296,702,species,Common Goldeneye,Bucephala clangula,1,Brunelle Marina,US-MA,28 Dec 2016,L1877563,S37158881,,1
+297,32146,species,Snow Bunting,Plectrophenax nivalis,15,Pittsfield Airport,US-MA,23 Dec 2016,L802434,S33161283,,1
+298,22182,species,Horned Lark,Eremophila alpestris,20,Pittsfield Airport,US-MA,23 Dec 2016,L802434,S33161283,,1
+299,6422,species,Bonaparte's Gull,Chroicocephalus philadelphia,1,Sherwood Lakes,US-VA,21 Dec 2016,L2071147,S33132075,,1
+300,271,species,Greater White-fronted Goose,Anser albifrons,9,Sherwood Lakes,US-VA,21 Dec 2016,L2071147,S33132075,,1
+301,260,species,Ross's Goose,Anser rossii,1,Sherwood Lakes,US-VA,21 Dec 2016,L2071147,S33132075,,1
+302,256,species,Snow Goose,Anser caerulescens,1,Sherwood Lakes,US-VA,21 Dec 2016,L2071147,S33132075,,1
+303,296,species,Brant,Branta bernicla,38,Grandview Nature Preserve,US-VA,18 Dec 2016,L718480,S33078181,,1
+305,574,species,Green-winged Teal,Anas crecca,16,Sandy Bottom Nature Park,US-VA,04 Dec 2016,L718718,S32851189,,1
+306,32567,species,American Tree Sparrow,Spizelloides arborea,1,Richmond Pond,US-MA,26 Nov 2016,L802428,S32725101,,1
+307,537,species,American Black Duck,Anas rubripes,10,Richmond Pond,US-MA,26 Nov 2016,L802428,S32725101,,1
+308,31361,species,American Pipit,Anthus rubescens,3,"Mount Williams Reservoir, North Adams",US-MA,25 Nov 2016,L468972,S32713582,,1
+309,720,species,Common Merganser,Mergus merganser,2,"Mount Williams Reservoir, North Adams",US-MA,25 Nov 2016,L468972,S32713582,,1
+310,6516,species,Great Black-backed Gull,Larus marinus,12,Grandview Nature Preserve,US-VA,19 Nov 2016,L718480,S32620520,,1
+311,6156,species,Dunlin,Calidris alpina,95,Grandview Nature Preserve,US-VA,19 Nov 2016,L718480,S32620520,,1
+312,5247,species,Clapper Rail,Rallus crepitans,3,Grandview Nature Preserve,US-VA,19 Nov 2016,L718480,S32620520,,1
+313,728,species,Red-breasted Merganser,Mergus serrator,2,Grandview Nature Preserve,US-VA,19 Nov 2016,L718480,S32620520,,1
+314,696,species,Black Scoter,Melanitta americana,2,Grandview Nature Preserve,US-VA,19 Nov 2016,L718480,S32620520,,1
+315,676,species,Common Eider,Somateria mollissima,1,Grandview Nature Preserve,US-VA,19 Nov 2016,L718480,S32620520,,1
+318,358,species,Mute Swan,Cygnus olor,1,Newport News Park,US-VA,05 Nov 2016,L718631,S32382615,N,1
+319,7950,species,Northern Harrier,Circus hudsonius,1,Stony Run Athletic Complex,US-VA,05 Nov 2016,L5042910,S32381530,,1
+320,712,species,Hooded Merganser,Lophodytes cucullatus,3,Stony Run Athletic Complex,US-VA,05 Nov 2016,L5042910,S32381530,,1
+321,33430,species,Blue-winged Warbler,Vermivora cyanoptera,1,Sandy Bottom Nature Park,US-VA,09 Sep 2016,L718718,S32734975,,1
+322,6187,species,Least Sandpiper,Calidris minutilla,3,Sandy Bottom Nature Park,US-VA,09 Sep 2016,L718718,S32734975,,1
+323,6094,species,Solitary Sandpiper,Tringa solitaria,1,Sandy Bottom Nature Park,US-VA,09 Sep 2016,L718718,S32734975,,1
+324,1222,species,Wild Turkey,Meleagris gallopavo,20,Piney Grove Preserve,US-VA,23 Aug 2016,L555556,S32888541,,1
+325,8284,species,Red-shouldered Hawk,Buteo lineatus,1,Hog Island WMA,US-VA,22 Aug 2016,L718515,S31215816,,1
+326,6670,species,Forster's Tern,Sterna forsteri,5,Hog Island WMA,US-VA,22 Aug 2016,L718515,S31215816,,1
+328,6188,species,Pectoral Sandpiper,Calidris melanotos,4,Hog Island WMA,US-VA,22 Aug 2016,L718515,S31215816,,1
+329,6024,species,Short-billed Dowitcher,Limnodromus griseus,8,Hog Island WMA,US-VA,22 Aug 2016,L718515,S31215816,,1
+330,6018,species,Marbled Godwit,Limosa fedoa,2,Hog Island WMA,US-VA,22 Aug 2016,L718515,S31215816,,1
+331,33550,species,Magnolia Warbler,Setophaga magnolia,1,October Mountain SF--Washington Mtn. Marsh,US-MA,17 Aug 2016,L3807548,S32717321,,1
+332,33454,species,Nashville Warbler,Leiothlypis ruficapilla,2,October Mountain SF--Washington Mtn. Marsh,US-MA,17 Aug 2016,L3807548,S32717321,,1
+333,7335,species,American Bittern,Botaurus lentiginosus,1,October Mountain SF--Washington Mtn. Marsh,US-MA,17 Aug 2016,L3807548,S32717321,,1
+334,33798,species,Canada Warbler,Cardellina canadensis,1,"Post Farm Marsh, Lenox",US-MA,16 Aug 2016,L740657,S31118250,,1
+335,27846,species,Veery,Catharus fuscescens,1,"Post Farm Marsh, Lenox",US-MA,16 Aug 2016,L740657,S31118250,,1
+336,18890,species,Warbling Vireo,Vireo gilvus,1,"Post Farm Marsh, Lenox",US-MA,16 Aug 2016,L740657,S31118250,,1
+337,33300,species,Bronzed Cowbird,Molothrus aeneus,30,Finca Maritima (Playa El Rey) rice fields,CR-P,07 Aug 2016,L2364240,S32383559,,1
+339,18737,species,Scrub Greenlet,Hylophilus flavipes,1,Finca Maritima (Playa El Rey) rice fields,CR-P,07 Aug 2016,L2364240,S32383559,,1
+340,10029,species,American Pygmy Kingfisher,Chloroceryle aenea,1,Finca Maritima (Playa El Rey) rice fields,CR-P,07 Aug 2016,L2364240,S32383559,,1
+341,35223,species,Buff-throated Saltator,Saltator maximus,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+342,34611,species,Shining Honeycreeper,Cyanerpes lucidus,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+343,34598,species,Blue Dacnis,Dacnis cayana,2,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+344,34533,species,Bay-headed Tanager,Tangara gyrola,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+345,34402,species,Palm Tanager,Thraupis palmarum,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+346,34033,species,Blue-black Grosbeak,Cyanoloxia cyanoides,2,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+347,32452,species,Black-striped Sparrow,Arremonops conirostris,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+348,26663,species,White-browed Gnatcatcher,Polioptila bilineata,3,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+349,16973,species,Dusky-capped Flycatcher,Myiarchus tuberculifer,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+350,16343,species,Yellow-crowned Tyrannulet,Tyrannulus elatus,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+351,16324,species,Yellow Tyrannulet,Capsiempis flaveola,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+352,15631,species,Rufous Piha,Lipaugus unirufus,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+353,15537,species,Red-capped Manakin,Ceratopipra mentalis,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+354,15468,species,Orange-collared Manakin,Manacus aurantiacus,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+355,11731,species,Yellow-headed Caracara,Daptrius chimachima,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+356,10676,species,Fiery-billed Aracari,Pteroglossus frantzii,6,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+357,7699,species,Swallow-tailed Kite,Elanoides forficatus,2,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+358,5164,species,Blue-throated Goldentail,Chlorestes eliciae,2,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+359,5159,species,Charming Hummingbird,Polyerata decora,2,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+360,4988,species,Scaly-breasted Hummingbird,Phaeochroa cuvierii,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+361,4899,species,Violet-headed Hummingbird,Klais guimeti,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+362,4363,species,Green-breasted Mango,Anthracothorax prevostii,3,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+363,4285,species,Stripe-throated Hermit,Phaethornis striigularis,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+364,4203,species,White-necked Jacobin,Florisuga mellivora,3,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+365,2340,species,White-tipped Dove,Leptotila verreauxi,4,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+366,2329,species,Ruddy Quail-Dove,Geotrygon montana,6,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+367,1960,species,Pale-vented Pigeon,Patagioenas cayennensis,1,Esquipulas (town),CR-SJ,07 Aug 2016,L1855002,S32383131,,1
+368,35001,species,Variable Seedeater,Sporophila corvina,2,PN Manuel Antonio,CR-P,05 Aug 2016,L724260,S32900642,,1
+369,32522,species,Orange-billed Sparrow,Arremon aurantiirostris,2,PN Manuel Antonio,CR-P,05 Aug 2016,L724260,S32900642,,1
+370,27085,species,Riverside Wren,Cantorchilus semibadius,3,PN Manuel Antonio,CR-P,05 Aug 2016,L724260,S32900642,,1
+371,16247,species,Southern Beardless-Tyrannulet,Camptostoma obsoletum,1,PN Manuel Antonio,CR-P,05 Aug 2016,L724260,S32900642,,1
+372,15916,species,Ochre-bellied Flycatcher,Mionectes oleagineus,1,PN Manuel Antonio,CR-P,05 Aug 2016,L724260,S32900642,,1
+373,13285,species,Black-hooded Antshrike,Thamnophilus bridgesi,2,PN Manuel Antonio,CR-P,05 Aug 2016,L724260,S32900642,,1
+374,12651,species,White-crowned Parrot,Pionus senilis,4,PN Manuel Antonio,CR-P,05 Aug 2016,L724260,S32900642,,1
+375,10952,species,Red-crowned Woodpecker,Melanerpes rubricapillus,1,PN Manuel Antonio,CR-P,05 Aug 2016,L724260,S32900642,,1
+376,10936,species,Golden-naped Woodpecker,Melanerpes chrysauchen,1,PN Manuel Antonio,CR-P,05 Aug 2016,L724260,S32900642,,1
+377,4944,species,Crowned Woodnymph,Thalurania colombica,1,PN Manuel Antonio,CR-P,05 Aug 2016,L724260,S32900642,,1
+378,12937,species,Crimson-fronted Parakeet,Psittacara finschi,,San José--Museo de los Niños,CR-SJ,04 Aug 2016,L2345781,S32885689,,1
+379,33026,species,Wrenthrush,Zeledonia coronata,1,PN Volcán Poás,CR-A,03 Aug 2016,L1331161,S32805048,,1
+380,32792,species,Large-footed Finch,Pezopetes capitalis,2,PN Volcán Poás,CR-A,03 Aug 2016,L1331161,S32805048,,1
+381,14656,species,Spot-crowned Woodcreeper,Lepidocolaptes affinis,1,PN Volcán Poás,CR-A,03 Aug 2016,L1331161,S32805048,,1
+382,4711,species,Fiery-throated Hummingbird,Panterpe insignis,1,PN Volcán Poás,CR-A,03 Aug 2016,L1331161,S32805048,,1
+383,33198,species,Streak-backed Oriole,Icterus pustulatus,2,PN Palo Verde (área general),CR-G,02 Aug 2016,L445651,S32885643,,1
+384,12593,species,Orange-chinned Parakeet,Brotogeris jugularis,,PN Palo Verde (área general),CR-G,02 Aug 2016,L445651,S32885643,,1
+385,8278,species,Gray Hawk,Buteo plagiatus,1,PN Palo Verde (área general),CR-G,02 Aug 2016,L445651,S32885643,,1
+386,7315,species,Bare-throated Tiger-Heron,Tigrisoma mexicanum,5,PN Palo Verde (área general),CR-G,02 Aug 2016,L445651,S32885643,,1
+387,7195,species,Anhinga,Anhinga anhinga,10,PN Palo Verde (área general),CR-G,02 Aug 2016,L445651,S32885643,,1
+388,7138,species,Wood Stork,Mycteria americana,1,PN Palo Verde (área general),CR-G,02 Aug 2016,L445651,S32885643,,1
+389,5952,species,Northern Jacana,Jacana spinosa,,PN Palo Verde (área general),CR-G,02 Aug 2016,L445651,S32885643,,1
+390,5489,species,Purple Gallinule,Porphyrio martinica,,PN Palo Verde (área general),CR-G,02 Aug 2016,L445651,S32885643,,1
+391,3553,species,Common Pauraque,Nyctidromus albicollis,,PN Palo Verde (área general),CR-G,02 Aug 2016,L445651,S32885643,,1
+392,3026,species,Groove-billed Ani,Crotophaga sulcirostris,2,PN Palo Verde (área general),CR-G,02 Aug 2016,L445651,S32885643,,1
+393,233,species,Black-bellied Whistling-Duck,Dendrocygna autumnalis,150,PN Palo Verde (área general),CR-G,02 Aug 2016,L445651,S32885643,,1
+394,32386,species,Stripe-headed Sparrow,Peucaea ruficauda,,Tamarindo,CR-G,30 Jul 2016,L442998,S32898499,,1
+395,26945,species,Rufous-naped Wren,Campylorhynchus rufinucha,,Tamarindo,CR-G,30 Jul 2016,L442998,S32898499,,1
+396,26691,species,White-lored Gnatcatcher,Polioptila albiloris,,Tamarindo,CR-G,30 Jul 2016,L442998,S32898499,,1
+397,20822,species,White-throated Magpie-Jay,Calocitta formosa,,Tamarindo,CR-G,30 Jul 2016,L442998,S32898499,,1
+398,18928,species,Yellow-green Vireo,Vireo flavoviridis,,Tamarindo,CR-G,30 Jul 2016,L442998,S32898499,,1
+399,17066,species,Boat-billed Flycatcher,Megarynchus pitangua,,Tamarindo,CR-G,30 Jul 2016,L442998,S32898499,,1
+400,17022,species,Brown-crested Flycatcher,Myiarchus tyrannulus,1,Tamarindo,CR-G,30 Jul 2016,L442998,S32898499,,1
+401,16170,species,Yellow-olive Flatbill,Tolmomyias sulphurescens,,Tamarindo,CR-G,30 Jul 2016,L442998,S32898499,,1
+402,10961,species,Hoffmann's Woodpecker,Melanerpes hoffmannii,,Tamarindo,CR-G,30 Jul 2016,L442998,S32898499,,1
+403,6125,species,Ruddy Turnstone,Arenaria interpres,,Tamarindo,CR-G,30 Jul 2016,L442998,S32898499,,1
+404,5067,species,Cinnamon Hummingbird,Amazilia rutila,,Tamarindo,CR-G,30 Jul 2016,L442998,S32898499,,1
+405,4704,species,Plain-capped Starthroat,Heliomaster constantii,,Tamarindo,CR-G,30 Jul 2016,L442998,S32898499,,1
+406,34247,species,Scarlet-rumped Tanager,Ramphocelus passerinii,1,PN Volcan Tenorio--Rio Celeste Trail,CR-A,29 Jul 2016,L8147976,S32885858,,1
+407,33762,species,Buff-rumped Warbler,Myiothlypis fulvicauda,1,PN Volcan Tenorio--Rio Celeste Trail,CR-A,29 Jul 2016,L8147976,S32885858,,1
+408,13868,species,Ocellated Antbird,Phaenostictus mcleannani,10,PN Volcan Tenorio--Rio Celeste Trail,CR-A,29 Jul 2016,L8147976,S32885858,,1
+409,35016,species,Morelet's Seedeater,Sporophila morelleti,2,Las Heliconias Lodge and hanging bridges,CR-A,29 Jul 2016,L1469245,S32801857,,1
+410,34633,species,Green Honeycreeper,Chlorophanes spiza,2,Las Heliconias Lodge and hanging bridges,CR-A,29 Jul 2016,L1469245,S32801857,,1
+411,34467,species,Golden-hooded Tanager,Stilpnia larvata,2,Las Heliconias Lodge and hanging bridges,CR-A,29 Jul 2016,L1469245,S32801857,,1
+412,27139,species,White-breasted Wood-Wren,Henicorhina leucosticta,2,Las Heliconias Lodge and hanging bridges,CR-A,29 Jul 2016,L1469245,S32801857,,1
+413,17139,species,Tropical Kingbird,Tyrannus melancholicus,1,Las Heliconias Lodge and hanging bridges,CR-A,29 Jul 2016,L1469245,S32801857,,1
+414,12666,species,Red-lored Parrot,Amazona autumnalis,4,Las Heliconias Lodge and hanging bridges,CR-A,29 Jul 2016,L1469245,S32801857,,1
+415,10718,species,Keel-billed Toucan,Ramphastos sulfuratus,2,Las Heliconias Lodge and hanging bridges,CR-A,29 Jul 2016,L1469245,S32801857,,1
+416,5078,species,Rufous-tailed Hummingbird,Amazilia tzacatl,14,Las Heliconias Lodge and hanging bridges,CR-A,29 Jul 2016,L1469245,S32801857,,1
+417,2261,species,Inca Dove,Columbina inca,1,Las Heliconias Lodge and hanging bridges,CR-A,29 Jul 2016,L1469245,S32801857,,1
+418,2019,species,Short-billed Pigeon,Patagioenas nigrirostris,1,Las Heliconias Lodge and hanging bridges,CR-A,29 Jul 2016,L1469245,S32801857,,1
+419,912,species,Great Curassow,Crax rubra,1,Las Heliconias Lodge and hanging bridges,CR-A,29 Jul 2016,L1469245,S32801857,,1
+420,35246,species,Cinnamon-bellied Saltator,Saltator grandis,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+421,35133,species,Yellow-faced Grassquit,Tiaris olivaceus,5,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+422,34620,species,Red-legged Honeycreeper,Cyanerpes cyaneus,2,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+423,34595,species,Scarlet-thighed Dacnis,Dacnis venusta,2,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+424,34575,species,Silver-throated Tanager,Tangara icterocephala,2,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+425,34378,species,Blue-gray Tanager,Thraupis episcopus,3,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+426,33813,species,Slate-throated Redstart,Myioborus miniatus,2,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+427,33704,species,Golden-crowned Warbler,Basileuterus culicivorus,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+428,33465,species,Gray-crowned Yellowthroat,Geothlypis poliocephala,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+429,32830,species,White-eared Ground-Sparrow,Melozone leucotis,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+430,31508,species,Yellow-throated Euphonia,Euphonia hirundinacea,2,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+431,31496,species,Yellow-crowned Euphonia,Euphonia luteicapilla,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+432,28042,species,Clay-colored Thrush,Turdus grayi,2,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+433,28016,species,White-throated Thrush,Turdus assimilis,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+434,27795,species,Orange-billed Nightingale-Thrush,Catharus aurantiirostris,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+435,27716,species,Black-faced Solitaire,Myadestes melanops,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+436,27157,species,Gray-breasted Wood-Wren,Henicorhina leucophrys,2,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+437,27080,species,Cabanis's Wren,Cantorchilus modestus,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+438,26781,species,Ochraceous Wren,Troglodytes ochraceus,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+439,20828,species,Brown Jay,Psilorhinus morio,6,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+440,18787,species,Lesser Greenlet,Pachysylvia decurtata,2,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+441,17125,species,Sulphur-bellied Flycatcher,Myiodynastes luteiventris,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+442,17079,species,Social Flycatcher,Myiozetetes similis,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+443,16675,species,Yellowish Flycatcher,Empidonax flavescens,3,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+444,16491,species,Mistletoe Tyrannulet,Zimmerius parvus,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+445,16415,species,Mountain Elaenia,Elaenia frantzii,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+446,15908,species,Olive-streaked Flycatcher,Mionectes olivaceus,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+447,15671,species,Masked Tityra,Tityra semifasciata,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+448,15642,species,Three-wattled Bellbird,Procnias tricarunculatus,2,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+449,15004,species,Spotted Barbtail,Premnoplex brunnescens,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+450,14636,species,Streak-headed Woodcreeper,Lepidocolaptes souleyetii,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+451,14400,species,Wedge-billed Woodcreeper,Glyphorynchus spirurus,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+452,13485,species,Slaty Antwren,Myrmotherula schisticolor,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+453,13373,species,Plain Antvireo,Dysithamnus mentalis,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+454,11617,species,Golden-olive Woodpecker,Colaptes rubiginosus,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+455,10708,species,Yellow-throated Toucan,Ramphastos ambiguus,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+456,10620,species,Northern Emerald-Toucanet,Aulacorhynchus prasinus,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+457,9575,species,Lesson's Motmot,Momotus lessonii,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+458,9369,species,Collared Trogon,Trogon collaris,2,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+459,9298,species,Resplendent Quetzal,Pharomachrus mocinno,2,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+460,5024,species,Blue-vented Hummingbird,Saucerottia hoffmanni,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+461,4983,species,Stripe-tailed Hummingbird,Eupherusa eximia,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+462,4976,species,Coppery-headed Emerald,Microchera cupreiceps,6,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+463,4920,species,Violet Sabrewing,Campylopterus hemileucurus,4,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+464,4732,species,Purple-throated Mountain-gem,Lampornis calolaemus,8,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+465,4681,species,Green-crowned Brilliant,Heliodoxa jacula,5,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+466,4334,species,Lesser Violetear,Colibri cyanotus,,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+467,3211,species,Squirrel Cuckoo,Piaya cayana,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+468,2387,species,Buff-fronted Quail-Dove,Zentrygon costaricensis,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+469,1986,species,Band-tailed Pigeon,Patagioenas fasciata,8,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+470,816,species,Gray-headed Chachalaca,Ortalis cinereiceps,1,Monteverde,CR-P,27 Jul 2016,L311635,S32801587,,1
+471,34879,species,Long-tailed Reed Finch,Donacospiza albifrons,1,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+472,33416,species,Brown-and-yellow Marshbird,Pseudoleistes virescens,7,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+473,33408,species,Chestnut-capped Blackbird,Chrysomus ruficapillus,2,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+474,33404,species,Yellow-winged Blackbird,Agelasticus thilius,,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+475,33399,species,Unicolored Blackbird,Agelasticus cyanopus,1,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+476,27618,species,White-banded Mockingbird,Mimus triurus,2,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+477,23653,species,Chilean Swallow,Tachycineta leucopyga,10,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+478,16816,species,Black-crowned Monjita,Neoxolmis coronatus,2,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+479,16735,species,Austral Negrito,Lessonia rufa,4,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+480,16263,species,Suiriri Flycatcher,Suiriri suiriri,1,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+481,15898,species,Many-colored Rush Tyrant,Tachuris rubrigastra,1,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+482,15334,species,Sooty-fronted Spinetail,Synallaxis frontalis,1,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+483,15255,species,Brown Cacholote,Pseudoseisura lophotes,1,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+484,15209,species,Stripe-crowned Spinetail,Cranioleuca pyrrhophia,2,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+485,15100,species,Short-billed Canastero,Asthenes baeri,2,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+486,15077,species,Freckle-breasted Thornbird,Phacellodomus striaticollis,1,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+487,15036,species,Tufted Tit-Spinetail,Leptasthenura platensis,1,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+488,14802,species,Buff-winged Cinclodes,Cinclodes fuscus,4,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+489,10922,species,White Woodpecker,Melanerpes candidus,1,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+490,10028,species,Amazon Kingfisher,Chloroceryle amazona,1,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+491,8926,species,Burrowing Owl,Athene cunicularia,3,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+492,7917,species,Snail Kite,Rostrhamus sociabilis,3,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+493,7562,species,Bare-faced Ibis,Phimosus infuscatus,12,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+494,6440,species,Gray-hooded Gull,Chroicocephalus cirrocephalus,,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+495,5424,species,Spot-flanked Gallinule,Porphyriops melanops,2,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+496,5151,species,Gilded Hummingbird,Hylocharis chrysura,6,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+497,1973,species,Spot-winged Pigeon,Patagioenas maculosa,,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+498,591,species,Yellow-billed Teal,Anas flavirostris,,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+499,469,species,Red Shoveler,Spatula platalea,12,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+500,456,species,Silver Teal,Spatula versicolor,,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+501,432,species,Ringed Teal,Callonetta leucophrys,,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+502,376,species,Coscoroba Swan,Coscoroba coscoroba,6,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+503,231,species,White-faced Whistling-Duck,Dendrocygna viduata,,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+504,173,species,Spotted Nothura,Nothura maculosa,1,Ceibas,AR-E,16 Jul 2016,L844920,S32776386,,1
+505,34881,species,Rufous-sided Warbling Finch,Poospizopsis hypochondria,1,"Las Conchas, Quebrada de Cafayate",AR-A,11 Jul 2016,L844337,S32883098,,1
+506,34792,species,Gray-hooded Sierra Finch,Phrygilus gayi,1,"Las Conchas, Quebrada de Cafayate",AR-A,11 Jul 2016,L844337,S32883098,,1
+507,34180,species,Ringed Warbling Finch,Microspingus torquatus,1,"Las Conchas, Quebrada de Cafayate",AR-A,11 Jul 2016,L844337,S32883098,,1
+508,33866,species,Hepatic Tanager,Piranga flava,1,"Las Conchas, Quebrada de Cafayate",AR-A,11 Jul 2016,L844337,S32883098,,1
+509,16897,species,d'Orbigny's Chat-Tyrant,Ochthoeca oenanthoides,1,"Las Conchas, Quebrada de Cafayate",AR-A,11 Jul 2016,L844337,S32883098,,1
+510,16521,species,Greater Wagtail-Tyrant,Stigmatura budytoides,1,"Las Conchas, Quebrada de Cafayate",AR-A,11 Jul 2016,L844337,S32883098,,1
+511,7618,species,Andean Condor,Vultur gryphus,2,"Las Conchas, Quebrada de Cafayate",AR-A,11 Jul 2016,L844337,S32883098,,1
+512,16820,species,Black-billed Shrike-Tyrant,Agriornis montanus,1,Uquía,AR-Y,09 Jul 2016,L5113951,S32778210,,1
+513,16294,species,Yellow-billed Tit-Tyrant,Anairetes flavirostris,2,Uquía,AR-Y,09 Jul 2016,L5113951,S32778210,,1
+514,4140,species,Andean Swift,Aeronautes andecolus,8,Uquía,AR-Y,09 Jul 2016,L5113951,S32778210,,1
+515,34947,species,Great Pampa-Finch,Embernagra platensis,1,Pucará de Tilcara,AR-Y,09 Jul 2016,L1312509,S32883026,,1
+516,34365,species,Blue-and-yellow Tanager,Rauenia bonariensis,,Pucará de Tilcara,AR-Y,09 Jul 2016,L1312509,S32883026,,1
+517,26853,species,Grass Wren,Cistothorus platensis,1,Pucará de Tilcara,AR-Y,09 Jul 2016,L1312509,S32883026,,1
+518,14812,species,Cream-winged Cinclodes,Cinclodes albiventris,1,Pucará de Tilcara,AR-Y,09 Jul 2016,L1312509,S32883026,,1
+519,6430,species,Andean Gull,Chroicocephalus serranus,10,Pucará de Tilcara,AR-Y,09 Jul 2016,L1312509,S32883026,,1
+520,569,species,Yellow-billed Pintail,Anas georgica,86,Pucará de Tilcara,AR-Y,09 Jul 2016,L1312509,S32883026,,1
+521,419,species,Crested Duck,Lophonetta specularioides,4,Pucará de Tilcara,AR-Y,09 Jul 2016,L1312509,S32883026,,1
+522,34827,species,Ash-breasted Sierra Finch,Geospizopsis plebejus,1,Cuesta de Lipan,AR-Y,08 Jul 2016,L8138703,S49920536,,1
+523,14720,species,Straight-billed Earthcreeper,Ochetorhynchus ruficaudus,1,Cuesta de Lipan,AR-Y,08 Jul 2016,L8138703,S49920536,,1
+524,14828,species,White-winged Cinclodes,Cinclodes atacamensis,1,Tilcara--Garganta del Diablo,AR-Y,08 Jul 2016,L13342754,S49921045,,1
+525,34908,species,Greenish Yellow-Finch,Sicalis olivascens,20,Purmamarca,AR-Y,08 Jul 2016,L1312504,S32882942,,1
+526,34788,species,Black-hooded Sierra Finch,Phrygilus atriceps,,Purmamarca,AR-Y,08 Jul 2016,L1312504,S32882942,,1
+527,27619,species,Brown-backed Mockingbird,Mimus dorsalis,2,Purmamarca,AR-Y,08 Jul 2016,L1312504,S32882942,,1
+528,27611,species,Patagonian Mockingbird,Mimus patagonicus,,Purmamarca,AR-Y,08 Jul 2016,L1312504,S32882942,,1
+529,16758,species,White-winged Black-Tyrant,Knipolegus aterrimus,2,Purmamarca,AR-Y,08 Jul 2016,L1312504,S32882942,,1
+530,15586,species,White-tipped Plantcutter,Phytotoma rutila,,Purmamarca,AR-Y,08 Jul 2016,L1312504,S32882942,,1
+531,15092,species,Creamy-breasted Canastero,Asthenes dorbignyi,1,Purmamarca,AR-Y,08 Jul 2016,L1312504,S32882942,,1
+532,12562,species,Gray-hooded Parakeet,Psilopsiagon aymara,12,Purmamarca,AR-Y,08 Jul 2016,L1312504,S32882942,,1
+533,4472,species,White-sided Hillstar,Oreotrochilus leucopleurus,2,Purmamarca,AR-Y,08 Jul 2016,L1312504,S32882942,,1
+534,34175,species,Rusty-browed Warbling Finch,Microspingus erythrophrys,1,PP Potrero de Yala,AR-Y,07 Jul 2016,L4748801,S32882818,,1
+535,34157,species,Rust-and-yellow Tanager,Thlypopsis ruficeps,2,PP Potrero de Yala,AR-Y,07 Jul 2016,L4748801,S32882818,,1
+536,32992,species,Fulvous-headed Brushfinch,Atlapetes fulviceps,1,PP Potrero de Yala,AR-Y,07 Jul 2016,L4748801,S32882818,,1
+537,32130,species,Black Siskin,Spinus atratus,20,PP Potrero de Yala,AR-Y,07 Jul 2016,L4748801,S32882818,,1
+538,15033,species,Brown-capped Tit-Spinetail,Leptasthenura fuliginiceps,1,PP Potrero de Yala,AR-Y,07 Jul 2016,L4748801,S32882818,,1
+539,33827,species,Brown-capped Redstart,Myioborus brunniceps,2,Quebrada de San Lorenzo,AR-A,05 Jul 2016,L3081504,S32882652,,1
+540,32517,species,White-browed Brushfinch,Arremon torquatus,1,Quebrada de San Lorenzo,AR-A,05 Jul 2016,L3081504,S32882652,,1
+541,32338,species,Common Chlorospingus,Chlorospingus flavopectus,12,Quebrada de San Lorenzo,AR-A,05 Jul 2016,L3081504,S32882652,,1
+542,28156,species,Andean Slaty Thrush,Turdus nigriceps,2,Quebrada de San Lorenzo,AR-A,05 Jul 2016,L3081504,S32882652,,1
+543,26785,species,Mountain Wren,Troglodytes solstitialis,2,Quebrada de San Lorenzo,AR-A,05 Jul 2016,L3081504,S32882652,,1
+544,15964,species,Mottle-cheeked Tyrannulet,Phylloscartes ventralis,1,Quebrada de San Lorenzo,AR-A,05 Jul 2016,L3081504,S32882652,,1
+545,11338,species,Cream-backed Woodpecker,Campephilus leucopogon,1,Quebrada de San Lorenzo,AR-A,05 Jul 2016,L3081504,S32882652,,1
+546,34183,species,Black-capped Warbling Finch,Microspingus melanoleucus,1,Cerro San Bernardo,AR-A,03 Jul 2016,L2763318,S32769724,,1
+547,34039,species,Ultramarine Grosbeak,Cyanoloxia brissonii,2,Cerro San Bernardo,AR-A,03 Jul 2016,L2763318,S32769724,,1
+548,32546,species,Moss-backed Sparrow,Arremon dorbignii,2,Cerro San Bernardo,AR-A,03 Jul 2016,L2763318,S32769724,,1
+549,28151,species,Chiguanco Thrush,Turdus chiguanco,1,Cerro San Bernardo,AR-A,03 Jul 2016,L2763318,S32769724,,1
+550,23713,species,Blue-and-white Swallow,Pygochelidon cyanoleuca,300,Cerro San Bernardo,AR-A,03 Jul 2016,L2763318,S32769724,,1
+551,20872,species,Plush-crested Jay,Cyanocorax chrysops,5,Cerro San Bernardo,AR-A,03 Jul 2016,L2763318,S32769724,,1
+552,16837,species,Streak-throated Bush-Tyrant,Myiotheretes striaticollis,1,Cerro San Bernardo,AR-A,03 Jul 2016,L2763318,S32769724,,1
+553,16460,species,Rough-legged Tyrannulet,Phyllomyias burmeisteri,1,Cerro San Bernardo,AR-A,03 Jul 2016,L2763318,S32769724,,1
+554,16223,species,Cliff Flycatcher,Hirundinea ferruginea,2,Cerro San Bernardo,AR-A,03 Jul 2016,L2763318,S32769724,,1
+555,14889,species,Buff-browed Foliage-gleaner,Syndactyla rufosuperciliata,1,Cerro San Bernardo,AR-A,03 Jul 2016,L2763318,S32769724,,1
+556,5152,species,White-bellied Hummingbird,Elliotomyia chionogaster,2,Cerro San Bernardo,AR-A,03 Jul 2016,L2763318,S32769724,,1
+557,4457,species,Red-tailed Comet,Sappho sparganurus,12,Cerro San Bernardo,AR-A,03 Jul 2016,L2763318,S32769724,,1
+558,877,species,Yungas Guan,Penelope bridgesi,5,Cerro San Bernardo,AR-A,03 Jul 2016,L2763318,S32769724,,1
+559,15089,species,Lark-like Brushrunner,Coryphistera alaudina,8,Resistencia,AR-H,01 Jul 2016,L3230646,S32769250,,1
+560,35253,species,Bluish-gray Saltator,Saltator coerulescens,2,Asunción Jardin Botanico,PY-ASU,29 Jun 2016,L1621522,S32767580,,1
+561,34685,species,Chestnut-vented Conebill,Conirostrum speciosum,2,Asunción Jardin Botanico,PY-ASU,29 Jun 2016,L1621522,S32767580,,1
+562,34394,species,Sayaca Tanager,Thraupis sayaca,5,Asunción Jardin Botanico,PY-ASU,29 Jun 2016,L1621522,S32767580,,1
+563,34115,species,Hooded Tanager,Nemosia pileata,1,Asunción Jardin Botanico,PY-ASU,29 Jun 2016,L1621522,S32767580,,1
+564,26981,species,Thrush-like Wren,Campylorhynchus turdinus,1,Asunción Jardin Botanico,PY-ASU,29 Jun 2016,L1621522,S32767580,,1
+565,23678,species,Gray-breasted Martin,Progne chalybea,8,Asunción Jardin Botanico,PY-ASU,29 Jun 2016,L1621522,S32767580,,1
+566,23652,species,White-rumped Swallow,Tachycineta leucorrhoa,,Asunción Jardin Botanico,PY-ASU,29 Jun 2016,L1621522,S32767580,,1
+567,18704,species,Rufous-browed Peppershrike,Cyclarhis gujanensis,1,Asunción Jardin Botanico,PY-ASU,29 Jun 2016,L1621522,S32767580,,1
+568,12696,species,Turquoise-fronted Parrot,Amazona aestiva,2,Asunción Jardin Botanico,PY-ASU,29 Jun 2016,L1621522,S32767580,,1
+569,12587,species,Yellow-chevroned Parakeet,Brotogeris chiriri,2,Asunción Jardin Botanico,PY-ASU,29 Jun 2016,L1621522,S32767580,,1
+570,8235,species,Roadside Hawk,Rupornis magnirostris,1,Asunción Jardin Botanico,PY-ASU,29 Jun 2016,L1621522,S32767580,,1
+571,1825,species,Least Grebe,Tachybaptus dominicus,1,Asunción Jardin Botanico,PY-ASU,29 Jun 2016,L1621522,S32767580,,1
+572,35048,species,Rusty-collared Seedeater,Sporophila collaris,1,Parque Solidaridad,PY-ASU,28 Jun 2016,L2763129,S32769359,,1
+573,16850,species,Black-backed Water-Tyrant,Fluvicola albiventer,1,Parque Solidaridad,PY-ASU,28 Jun 2016,L2763129,S32769359,,1
+574,11694,species,Campo Flicker,Colaptes campestris,2,Parque Solidaridad,PY-ASU,28 Jun 2016,L2763129,S32769359,,1
+575,7439,species,Striated Heron,Butorides striata,1,Parque Solidaridad,PY-ASU,28 Jun 2016,L2763129,S32769359,,1
+576,3025,species,Smooth-billed Ani,Crotophaga ani,4,Parque Solidaridad,PY-ASU,28 Jun 2016,L2763129,S32769359,,1
+577,3023,species,Guira Cuckoo,Guira guira,1,Parque Solidaridad,PY-ASU,28 Jun 2016,L2763129,S32769359,,1
+578,2298,species,Picui Ground Dove,Columbina picui,20,Parque Solidaridad,PY-ASU,28 Jun 2016,L2763129,S32769359,,1
+579,34083,species,Red-crested Cardinal,Paroaria coronata,2,Riacho Cortapick,AR-P,27 Jun 2016,L3403311,S32769472,,1
+580,33387,species,Scarlet-headed Blackbird,Amblyramphus holosericeus,2,Riacho Cortapick,AR-P,27 Jun 2016,L3403311,S32769472,,1
+581,16810,species,White Monjita,Xolmis irupero,,Riacho Cortapick,AR-P,27 Jun 2016,L3403311,S32769472,,1
+582,10017,species,Ringed Kingfisher,Megaceryle torquata,1,Riacho Cortapick,AR-P,27 Jun 2016,L3403311,S32769472,,1
+583,8223,species,Savanna Hawk,Buteogallus meridionalis,1,Riacho Cortapick,AR-P,27 Jun 2016,L3403311,S32769472,,1
+584,7552,species,White-faced Ibis,Plegadis chihi,1,Riacho Cortapick,AR-P,27 Jun 2016,L3403311,S32769472,,1
+585,7523,species,Cocoi Heron,Ardea cocoi,7,Riacho Cortapick,AR-P,27 Jun 2016,L3403311,S32769472,,1
+586,7398,species,Whistling Heron,Syrigma sibilatrix,,Riacho Cortapick,AR-P,27 Jun 2016,L3403311,S32769472,,1
+587,7260,species,Neotropic Cormorant,Nannopterum brasilianum,,Riacho Cortapick,AR-P,27 Jun 2016,L3403311,S32769472,,1
+588,7133,species,Jabiru,Jabiru mycteria,2,Riacho Cortapick,AR-P,27 Jun 2016,L3403311,S32769472,,1
+589,7122,species,Maguari Stork,Ciconia maguari,,Riacho Cortapick,AR-P,27 Jun 2016,L3403311,S32769472,,1
+590,5949,species,South American Painted-Snipe,Nycticryphes semicollaris,3,Riacho Cortapick,AR-P,27 Jun 2016,L3403311,S32769472,,1
+591,5642,species,Limpkin,Aramus guarauna,3,Riacho Cortapick,AR-P,27 Jun 2016,L3403311,S32769472,,1
+592,5388,species,Plumbeous Rail,Pardirallus sanguinolentus,2,Riacho Cortapick,AR-P,27 Jun 2016,L3403311,S32769472,,1
+593,35278,species,Golden-billed Saltator,Saltator aurantiirostris,4,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+594,34918,species,Saffron Finch,Sicalis flaveola,3,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+595,34890,species,Black-and-rufous Warbling Finch,Poospiza nigrorufa,1,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+596,34350,species,Diademed Tanager,Stephanophorus diadematus,2,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+597,34096,species,Yellow-billed Cardinal,Paroaria capitata,2,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+598,33537,species,Tropical Parula,Setophaga pitiayumi,6,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+599,33393,species,Grayish Baywing,Agelaioides badius,9,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+600,33183,species,Variable Oriole,Icterus pyrrhopterus,2,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+601,33115,species,Solitary Black Cacique,Cacicus solitarius,4,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+602,32115,species,Hooded Siskin,Spinus magellanicus,10,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+603,28123,species,Creamy-bellied Thrush,Turdus amaurochalinus,3,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+604,26647,species,Masked Gnatcatcher,Polioptila dumicola,4,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+605,16766,species,Spectacled Tyrant,Hymenops perspicillatus,1,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+606,16445,species,White-crested Tyrannulet,Serpophaga subcristata,2,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+607,16444,species,Sooty Tyrannulet,Serpophaga nigricans,1,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+608,14778,species,Wren-like Rushbird,Phleocryptes melanops,1,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+609,14644,species,Narrow-billed Woodcreeper,Lepidocolaptes angustirostris,2,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+610,12878,species,Nanday Parakeet,Aratinga nenday,10,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,N,1
+611,11657,species,Green-barred Woodpecker,Colaptes melanochloros,3,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+612,11248,species,Checkered Woodpecker,Dryobates mixtus,1,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+613,8250,species,Harris's Hawk,Parabuteo unicinctus,1,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+614,7312,species,Rufescent Tiger-Heron,Tigrisoma lineatum,2,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+615,6490,species,Kelp Gull,Larus dominicanus,,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+616,6431,species,Brown-hooded Gull,Chroicocephalus maculipennis,,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+617,5956,species,Wattled Jacana,Jacana jacana,2,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+618,5460,species,Red-gartered Coot,Fulica armillata,1,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+619,5409,species,Giant Wood-Rail,Aramides ypecaha,1,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+620,4870,species,Glittering-bellied Emerald,Chlorostilbon lucidus,1,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+621,2415,species,Eared Dove,Zenaida auriculata,1,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+622,1969,species,Picazuro Pigeon,Patagioenas picazuro,16,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+623,1839,species,Great Grebe,Podiceps major,1,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+624,1798,species,White-tufted Grebe,Rollandia rolland,2,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+625,626,species,Rosy-billed Pochard,Netta peposaca,4,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+626,439,species,Brazilian Teal,Amazonetta brasiliensis,2,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+627,224,species,Southern Screamer,Chauna torquata,1,Reserva Ecológica Costanera Sur,AR-C,25 Jun 2016,L472208,S32430075,,1
+628,33291,species,Shiny Cowbird,Molothrus bonariensis,2,Paseo Costero,AR-B,23 Jun 2016,L4730317,S30364834,,1
+629,32629,species,Rufous-collared Sparrow,Zonotrichia capensis,2,Paseo Costero,AR-B,23 Jun 2016,L4730317,S30364834,,1
+630,28039,species,Rufous-bellied Thrush,Turdus rufiventris,10,Paseo Costero,AR-B,23 Jun 2016,L4730317,S30364834,,1
+631,27612,species,Chalk-browed Mockingbird,Mimus saturninus,2,Paseo Costero,AR-B,23 Jun 2016,L4730317,S30364834,,1
+632,26737,species,House Wren,Troglodytes aedon,1,Paseo Costero,AR-B,23 Jun 2016,L4730317,S30364834,,1
+633,17048,species,Cattle Tyrant,Machetornis rixosa,1,Paseo Costero,AR-B,23 Jun 2016,L4730317,S30364834,,1
+634,14763,species,Rufous Hornero,Furnarius rufus,6,Paseo Costero,AR-B,23 Jun 2016,L4730317,S30364834,,1
+635,12576,species,Monk Parakeet,Myiopsitta monachus,10,Paseo Costero,AR-B,23 Jun 2016,L4730317,S30364834,,1
+636,11735,species,Chimango Caracara,Daptrius chimango,1,Paseo Costero,AR-B,23 Jun 2016,L4730317,S30364834,,1
+637,11727,species,Crested Caracara,Caracara plancus,2,Paseo Costero,AR-B,23 Jun 2016,L4730317,S30364834,,1
+638,5862,species,Southern Lapwing,Vanellus chilensis,2,Paseo Costero,AR-B,23 Jun 2016,L4730317,S30364834,,1
+639,6713,species,Sandwich Tern,Thalasseus sandvicensis,1,Grandview Nature Preserve,US-VA,21 Jun 2016,L718480,S37158352,,1
+640,6649,species,Gull-billed Tern,Gelochelidon nilotica,1,Grandview Nature Preserve,US-VA,21 Jun 2016,L718480,S37158352,,1
+641,27851,species,Gray-cheeked Thrush,Catharus minimus,1,Central Park--The Ramble,US-NY,26 May 2016,L109518,S33030398,,1
+642,34051,species,Blue Grosbeak,Passerina caerulea,2,Sandy Bottom Nature Park,US-VA,14 May 2016,L718718,S29631308,,1
+643,33426,species,Northern Waterthrush,Parkesia noveboracensis,1,Sandy Bottom Nature Park,US-VA,14 May 2016,L718718,S29631308,,1
+644,3874,species,Chimney Swift,Chaetura pelagica,3,Sandy Bottom Nature Park,US-VA,14 May 2016,L718718,S29631308,,1
+645,33419,species,Ovenbird,Seiurus aurocapilla,2,Sandy Bottom Nature Park,US-VA,08 May 2016,L718718,S29505051,,1
+646,27857,species,Swainson's Thrush,Catharus ustulatus,2,Sandy Bottom Nature Park,US-VA,08 May 2016,L718718,S29505051,,1
+647,5442,species,Common Gallinule,Gallinula galeata,1,Sandy Bottom Nature Park,US-VA,08 May 2016,L718718,S29505051,,1
+648,33885,species,Summer Tanager,Piranga rubra,1,Gildersleeve School Pond,US-VA,05 May 2016,L3546717,S32778141,,1
+649,33604,species,Black-throated Blue Warbler,Setophaga caerulescens,3,Gildersleeve School Pond,US-VA,05 May 2016,L3546717,S32778141,,1
+650,33601,species,Blackpoll Warbler,Setophaga striata,1,Gildersleeve School Pond,US-VA,05 May 2016,L3546717,S32778141,,1
+651,34009,species,Rose-breasted Grosbeak,Pheucticus ludovicianus,1,Hilton Village,US-VA,02 May 2016,L11078212,S42174969,,1
+652,33153,species,Orchard Oriole,Icterus spurius,2,Newport News Park--Swamp Bridge (York Co.),US-VA,28 Apr 2016,L5291145,S33104005,,1
+653,17156,species,Eastern Kingbird,Tyrannus tyrannus,1,Newport News Park--Swamp Bridge (York Co.),US-VA,28 Apr 2016,L5291145,S33104005,,1
+654,3230,species,Yellow-billed Cuckoo,Coccyzus americanus,1,Newport News Park--Swamp Bridge (York Co.),US-VA,28 Apr 2016,L5291145,S33104005,,1
+655,7401,species,Little Blue Heron,Egretta caerulea,1,Newport News Park--Swamp Bridge (York Co.),US-VA,16 Apr 2016,L5291145,S42120079,,1
+656,33436,species,Prothonotary Warbler,Protonotaria citrea,2,Newport News Park,US-VA,16 Apr 2016,L718631,S32773600,,1
+657,27880,species,Wood Thrush,Hylocichla mustelina,1,Newport News Park,US-VA,16 Apr 2016,L718631,S32773600,,1
+658,33446,species,Orange-crowned Warbler,Leiothlypis celata,1,I-20 Pond/Jenna Welch Nature Ctr. (FWTX 55),US-TX,09 Apr 2016,L981552,S32396853,,1
+659,33338,species,Great-tailed Grackle,Quiscalus mexicanus,8,I-20 Pond/Jenna Welch Nature Ctr. (FWTX 55),US-TX,09 Apr 2016,L981552,S32396853,,1
+660,27564,species,Curve-billed Thrasher,Toxostoma curvirostre,1,I-20 Pond/Jenna Welch Nature Ctr. (FWTX 55),US-TX,09 Apr 2016,L981552,S32396853,,1
+662,6069,species,Wilson's Snipe,Gallinago delicata,1,I-20 Pond/Jenna Welch Nature Ctr. (FWTX 55),US-TX,09 Apr 2016,L981552,S32396853,,1
+663,4777,species,Black-chinned Hummingbird,Archilochus alexandri,1,I-20 Pond/Jenna Welch Nature Ctr. (FWTX 55),US-TX,09 Apr 2016,L981552,S32396853,,1
+664,2051,species,Eurasian Collared-Dove,Streptopelia decaocto,1,I-20 Pond/Jenna Welch Nature Ctr. (FWTX 55),US-TX,09 Apr 2016,L981552,S32396853,N,1
+665,736,species,Ruddy Duck,Oxyura jamaicensis,2,I-20 Pond/Jenna Welch Nature Ctr. (FWTX 55),US-TX,09 Apr 2016,L981552,S32396853,,1
+666,474,species,Northern Shoveler,Spatula clypeata,90,I-20 Pond/Jenna Welch Nature Ctr. (FWTX 55),US-TX,09 Apr 2016,L981552,S32396853,,1
+667,461,species,Cinnamon Teal,Spatula cyanoptera,4,I-20 Pond/Jenna Welch Nature Ctr. (FWTX 55),US-TX,09 Apr 2016,L981552,S32396853,,1
+668,33247,species,Scott's Oriole,Icterus parisorum,1,Big Bend NP--Terlingua Abaja,US-TX,08 Apr 2016,L457600,S32396556,,1
+669,32503,species,Lark Bunting,Calamospiza melanocorys,1,Big Bend NP--Terlingua Abaja,US-TX,08 Apr 2016,L457600,S32396556,,1
+670,32489,species,Black-throated Sparrow,Amphispiza bilineata,2,Big Bend NP--Terlingua Abaja,US-TX,08 Apr 2016,L457600,S32396556,,1
+671,26679,species,Black-tailed Gnatcatcher,Polioptila melanura,1,Big Bend NP--Terlingua Abaja,US-TX,08 Apr 2016,L457600,S32396556,,1
+672,20684,species,Loggerhead Shrike,Lanius ludovicianus,1,Big Bend NP--Terlingua Abaja,US-TX,08 Apr 2016,L457600,S32396556,,1
+673,8705,species,Great Horned Owl,Bubo virginianus,1,Big Bend NP--Terlingua Abaja,US-TX,08 Apr 2016,L457600,S32396556,,1
+674,3604,species,Common Poorwill,Phalaenoptilus nuttallii,1,Big Bend NP--Terlingua Abaja,US-TX,08 Apr 2016,L457600,S32396556,,1
+675,26696,species,Rock Wren,Salpinctes obsoletus,1,Big Bend NP--Santa Elena Canyon (FWTX 39),US-TX,08 Apr 2016,L128910,S32396644,,1
+676,10032,species,Green Kingfisher,Chloroceryle americana,1,Big Bend NP--Santa Elena Canyon (FWTX 39),US-TX,08 Apr 2016,L128910,S32396644,,1
+677,32500,species,Lark Sparrow,Chondestes grammacus,3,Big Bend NP--Rio Grande Village (FWTX 44),US-TX,06 Apr 2016,L128907,S32383998,,1
+678,18844,species,Bell's Vireo,Vireo bellii,2,Big Bend NP--Rio Grande Village (FWTX 44),US-TX,06 Apr 2016,L128907,S32383998,,1
+679,16718,species,Vermilion Flycatcher,Pyrocephalus rubinus,4,Big Bend NP--Rio Grande Village (FWTX 44),US-TX,06 Apr 2016,L128907,S32383998,,1
+680,10963,species,Golden-fronted Woodpecker,Melanerpes aurifrons,2,Big Bend NP--Rio Grande Village (FWTX 44),US-TX,06 Apr 2016,L128907,S32383998,,1
+681,8308,species,Swainson's Hawk,Buteo swainsoni,1,Big Bend NP--Rio Grande Village (FWTX 44),US-TX,06 Apr 2016,L128907,S32383998,,1
+682,8213,species,Common Black Hawk,Buteogallus anthracinus,2,Big Bend NP--Rio Grande Village (FWTX 44),US-TX,06 Apr 2016,L128907,S32383998,,1
+683,33810,species,Painted Redstart,Myioborus pictus,4,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+684,32859,species,Green-tailed Towhee,Pipilo chlorurus,1,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+685,32845,species,Rufous-crowned Sparrow,Aimophila ruficeps,3,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+686,32801,species,Canyon Towhee,Melozone fusca,2,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+687,32781,species,Lincoln's Sparrow,Melospiza lincolnii,2,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+688,32468,species,Black-chinned Sparrow,Spizella atrogularis,1,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+689,29406,species,Phainopepla,Phainopepla nitens,1,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+690,27602,species,Crissal Thrasher,Toxostoma crissale,1,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+691,26957,species,Cactus Wren,Campylorhynchus brunneicapillus,4,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+692,26911,species,Bewick's Wren,Thryomanes bewickii,1,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+693,26730,species,Canyon Wren,Catherpes mexicanus,5,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+694,21876,species,Verdin,Auriparus flaviceps,1,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+695,21774,species,Black-crested Titmouse,Baeolophus atricristatus,8,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+696,21235,species,Common Raven,Corvus corax,2,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+697,20930,species,Mexican Jay,Aphelocoma wollweberi,10,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+698,17012,species,Ash-throated Flycatcher,Myiarchus cinerascens,3,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+699,11875,species,Peregrine Falcon,Falco peregrinus,1,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+700,11187,species,Ladder-backed Woodpecker,Dryobates scalaris,1,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+701,10927,species,Acorn Woodpecker,Melanerpes formicivorus,8,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+702,4809,species,Broad-tailed Hummingbird,Selasphorus platycercus,1,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+703,4134,species,White-throated Swift,Aeronautes saxatalis,40,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+704,3632,species,Mexican Whip-poor-will,Antrostomus arizonae,2,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+705,3037,species,Greater Roadrunner,Geococcyx californianus,3,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+706,1032,species,Scaled Quail,Callipepla squamata,8,Big Bend NP (please use more specific location if possible),US-TX,05 Apr 2016,L128913,S32383915,,1
+707,33241,species,Baltimore Oriole,Icterus galbula,1,Hilton Village,US-VA,13 Feb 2016,L11078212,S27485893,,1
+708,32715,species,Savannah Sparrow,Passerculus sandwichensis,1,Great Dismal Swamp NWR--West Ditch,US-VA,20 Dec 2015,L655256,S26374612,,1
+709,26395,species,Golden-crowned Kinglet,Regulus satrapa,6,Great Dismal Swamp NWR--West Ditch,US-VA,20 Dec 2015,L655256,S26374612,,1
+710,32466,species,Clay-colored Sparrow,Spizella pallida,1,**Back Bay NWR,US-VA,05 Dec 2015,L718307,S33103925,,1
+711,7165,species,Northern Gannet,Morus bassanus,,**Back Bay NWR,US-VA,05 Dec 2015,L718307,S33103925,,1
+712,365,species,Tundra Swan,Cygnus columbianus,,**Back Bay NWR,US-VA,05 Dec 2015,L718307,S33103925,,1
+713,32860,species,Spotted Towhee,Pipilo maculatus,1,Cabrillo NM,US-CA,20 Nov 2015,L280562,S26375040,,1
+714,32821,species,California Towhee,Melozone crissalis,2,Cabrillo NM,US-CA,20 Nov 2015,L280562,S26375040,,1
+715,27594,species,California Thrasher,Toxostoma redivivum,1,Cabrillo NM,US-CA,20 Nov 2015,L280562,S26375040,,1
+716,18851,species,Hutton's Vireo,Vireo huttoni,1,Cabrillo NM,US-CA,20 Nov 2015,L280562,S26375040,,1
+717,6485,species,Western Gull,Larus occidentalis,1,Cabrillo NM,US-CA,20 Nov 2015,L280562,S26375040,,1
+718,4787,species,Anna's Hummingbird,Calypte anna,1,Cabrillo NM,US-CA,20 Nov 2015,L280562,S26375040,,1
+719,1864,species,Western Grebe,Aechmophorus occidentalis,2,Cabrillo NM,US-CA,20 Nov 2015,L280562,S26375040,,1
+720,17146,species,Cassin's Kingbird,Tyrannus vociferans,2,Fort Rosecrans National Cemetery (no birding 8a-5p),US-CA,20 Nov 2015,L241743,S26374963,,1
+721,16699,species,Say's Phoebe,Sayornis saya,1,Fort Rosecrans National Cemetery (no birding 8a-5p),US-CA,20 Nov 2015,L241743,S26374963,,1
+722,16688,species,Black Phoebe,Sayornis nigricans,2,Fort Rosecrans National Cemetery (no birding 8a-5p),US-CA,20 Nov 2015,L241743,S26374963,,1
+723,11791,species,American Kestrel,Falco sparverius,2,Fort Rosecrans National Cemetery (no birding 8a-5p),US-CA,20 Nov 2015,L241743,S26374963,,1
+724,32658,species,White-crowned Sparrow,Zonotrichia leucophrys,3,Famosa Slough,US-CA,19 Nov 2015,L246035,S26374902,,1
+725,6118,species,Greater Yellowlegs,Tringa melanoleuca,1,Famosa Slough,US-CA,19 Nov 2015,L246035,S26374902,,1
+726,5988,species,Long-billed Curlew,Numenius americanus,1,Famosa Slough,US-CA,19 Nov 2015,L246035,S26374902,,1
+727,5798,species,Killdeer,Charadrius vociferus,1,Famosa Slough,US-CA,19 Nov 2015,L246035,S26374902,,1
+728,5751,species,American Avocet,Recurvirostra americana,20,Famosa Slough,US-CA,19 Nov 2015,L246035,S26374902,,1
+729,5474,species,American Coot,Fulica americana,35,Famosa Slough,US-CA,19 Nov 2015,L246035,S26374902,,1
+731,1852,species,Eared Grebe,Podiceps nigricollis,4,Famosa Slough,US-CA,19 Nov 2015,L246035,S26374902,,1
+732,487,species,American Wigeon,Mareca americana,30,Famosa Slough,US-CA,19 Nov 2015,L246035,S26374902,,1
+733,478,species,Gadwall,Mareca strepera,10,Famosa Slough,US-CA,19 Nov 2015,L246035,S26374902,,1
+734,26844,species,Winter Wren,Troglodytes hiemalis,1,Virginia Living Museum,US-VA,19 Nov 2015,L718792,S33103700,,1
+735,5268,species,Virginia Rail,Rallus limicola,1,Otter View Park,US-VT,17 Jul 2015,L568465,S43056883,,1
+736,33675,species,Black-throated Green Warbler,Setophaga virens,2,Branbury State Park,US-VT,15 Jul 2015,L1959493,S32929821,,1
+737,33599,species,Chestnut-sided Warbler,Setophaga pensylvanica,1,Dirt road at end of West St.,US-MA,28 Jun 2015,L5879524,S37112151,,1
+738,16654,species,Least Flycatcher,Empidonax minimus,1,Dirt road at end of West St.,US-MA,28 Jun 2015,L5879524,S37112151,,1
+739,33557,species,Yellow Warbler,Setophaga petechia,2,Berkshire Community College--Fields,US-MA,25 Jun 2015,L5105541,S32778156,,1
+740,33040,species,Bobolink,Dolichonyx oryzivorus,1,Berkshire Community College--Fields,US-MA,25 Jun 2015,L5105541,S32778156,,1
+741,23649,species,Tree Swallow,Tachycineta bicolor,4,Berkshire Community College--Fields,US-MA,25 Jun 2015,L5105541,S32778156,,1
+742,21676,species,Black-capped Chickadee,Poecile atricapillus,3,Berkshire Community College--Fields,US-MA,25 Jun 2015,L5105541,S32778156,,1
+743,33044,species,Eastern Meadowlark,Sturnella magna,1,Pea Island NWR,US-NC,19 Jun 2015,L190286,S32916547,,1
+744,32693,species,Seaside Sparrow,Ammospiza maritima,1,Pea Island NWR,US-NC,19 Jun 2015,L190286,S32916547,,1
+745,7546,species,White Ibis,Eudocimus albus,20,Pea Island NWR,US-NC,19 Jun 2015,L190286,S32916547,,1
+746,7373,species,Black-crowned Night Heron,Nycticorax nycticorax,1,Pea Island NWR,US-NC,19 Jun 2015,L190286,S32916547,,1
+747,6638,species,Least Tern,Sternula antillarum,15,Pea Island NWR,US-NC,19 Jun 2015,L190286,S32916547,,1
+748,6448,species,Laughing Gull,Leucophaeus atricilla,,Pea Island NWR,US-NC,19 Jun 2015,L190286,S32916547,,1
+749,6111,species,Willet,Tringa semipalmata,10,Pea Island NWR,US-NC,19 Jun 2015,L190286,S32916547,,1
+750,6109,species,Lesser Yellowlegs,Tringa flavipes,1,Pea Island NWR,US-NC,19 Jun 2015,L190286,S32916547,,1
+751,5741,species,Black-necked Stilt,Himantopus mexicanus,6,Pea Island NWR,US-NC,19 Jun 2015,L190286,S32916547,,1
+752,33555,species,Blackburnian Warbler,Setophaga fusca,1,Balance Rock SP,US-MA,17 Jun 2015,L5113322,S32774010,,1
+753,26484,species,Red-breasted Nuthatch,Sitta canadensis,1,Balance Rock SP,US-MA,17 Jun 2015,L5113322,S32774010,,1
+754,33035,species,Yellow-breasted Chat,Icteria virens,1,**Back Bay NWR,US-VA,14 Jun 2015,L718307,S33141228,,1
+755,32473,species,Field Sparrow,Spizella pusilla,1,**Back Bay NWR,US-VA,14 Jun 2015,L718307,S33141228,,1
+756,35163,species,Black-faced Grassquit,Melanospiza bicolor,,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+757,35140,species,Puerto Rican Bullfinch,Melopyrrha portoricensis,,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+758,35086,species,Bananaquit,Coereba flaveola,,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+759,33142,species,Puerto Rican Oriole,Icterus portoricensis,10,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+760,33024,species,Puerto Rican Spindalis,Spindalis portoricensis,2,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+761,28167,species,Red-legged Thrush,Turdus plumbeus,,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+762,27549,species,Pearly-eyed Thrasher,Margarops fuscatus,1,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+763,23869,species,Cave Swallow,Petrochelidon fulva,2,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+764,23673,species,Caribbean Martin,Progne dominicensis,,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+765,18842,species,Puerto Rican Vireo,Vireo latimeri,1,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+766,17162,species,Loggerhead Kingbird,Tyrannus caudifasciatus,,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+767,17158,species,Gray Kingbird,Tyrannus dominicensis,2,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+768,7487,species,Western Cattle Egret,Bubulcus ibis,2,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+769,7402,species,Tricolored Heron,Egretta tricolor,1,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+770,7364,species,Yellow-crowned Night Heron,Nyctanassa violacea,1,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+771,7340,species,Least Bittern,Ixobrychus exilis,1,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+772,7147,species,Magnificent Frigatebird,Fregata magnificens,1,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+773,4374,species,Green-throated Carib,Eulampis holosericeus,1,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+774,3233,species,Mangrove Cuckoo,Coccyzus minor,1,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+775,2408,species,Zenaida Dove,Zenaida aurita,1,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+776,2404,species,White-winged Dove,Zenaida asiatica,3,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+777,2262,species,Common Ground Dove,Columbina passerina,8,Bosque Estatal de Piñones,PR-LZ,28 May 2015,L323796,S32896560,,1
+778,34060,species,Indigo Bunting,Passerina cyanea,4,**Shenandoah National Park,US-VA,26 May 2015,L159390,S32912400,,1
+779,33425,species,Louisiana Waterthrush,Parkesia motacilla,1,**Shenandoah National Park,US-VA,26 May 2015,L159390,S32912400,,1
+780,33423,species,Worm-eating Warbler,Helmitheros vermivorum,2,**Shenandoah National Park,US-VA,26 May 2015,L159390,S32912400,,1
+781,23772,species,Barn Swallow,Hirundo rustica,40,**Shenandoah National Park,US-VA,26 May 2015,L159390,S32912400,,1
+782,16697,species,Eastern Phoebe,Sayornis phoebe,1,**Shenandoah National Park,US-VA,26 May 2015,L159390,S32912400,,1
+783,16615,species,Eastern Wood-Pewee,Contopus virens,2,**Shenandoah National Park,US-VA,26 May 2015,L159390,S32912400,,1
+784,33889,species,Scarlet Tanager,Piranga olivacea,1,Sandy Bottom Nature Park,US-VA,13 May 2015,L718718,S36734112,,1
+785,7551,species,Glossy Ibis,Plegadis falcinellus,1,Sandy Bottom Nature Park,US-VA,13 May 2015,L718718,S36734112,,1
+786,26878,species,Marsh Wren,Cistothorus palustris,1,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+787,7469,species,Green Heron,Butorides virescens,1,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+788,7289,species,Brown Pelican,Pelecanus occidentalis,1,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+789,7253,species,Double-crested Cormorant,Nannopterum auritum,5,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+790,6768,species,Red-throated Loon,Gavia stellata,1,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+791,6725,species,Royal Tern,Thalasseus maximus,5,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+792,6686,species,Common Tern,Sterna hirundo,2,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+793,6657,species,Caspian Tern,Hydroprogne caspia,1,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+794,6567,species,Black Skimmer,Rynchops niger,4,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+795,6496,species,Herring Gull,Larus argentatus,1,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+796,6193,species,Semipalmated Sandpiper,Calidris pusilla,2,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+797,6153,species,Sanderling,Calidris alba,20,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+798,5805,species,Semipalmated Plover,Charadrius semipalmatus,1,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+799,5782,species,Black-bellied Plover,Pluvialis squatarola,1,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+800,5770,species,American Oystercatcher,Haematopus palliatus,1,Fort Monroe,US-VA,07 May 2015,L604728,S32916224,,1
+801,9011,species,Barred Owl,Strix varia,1,Mariners' Museum Park/The Noland Trail,US-VA,05 May 2015,L523043,S32807684,,1
+802,33631,species,Yellow-throated Warbler,Setophaga dominica,1,York River State Park,US-VA,03 May 2015,L718829,S32885394,,1
+803,33528,species,Hooded Warbler,Setophaga citrina,1,York River State Park,US-VA,03 May 2015,L718829,S32885394,,1
+804,18867,species,Yellow-throated Vireo,Vireo flavifrons,1,York River State Park,US-VA,03 May 2015,L718829,S32885394,,1
+805,16641,species,Acadian Flycatcher,Empidonax virescens,1,York River State Park,US-VA,03 May 2015,L718829,S32885394,,1
+806,10926,species,Red-headed Woodpecker,Melanerpes erythrocephalus,5,York River State Park,US-VA,03 May 2015,L718829,S32885394,,1
+807,6091,species,Spotted Sandpiper,Actitis macularius,1,Mariners' Museum Park/The Noland Trail,US-VA,01 May 2015,L523043,S33669601,,1
+808,33643,species,Prairie Warbler,Setophaga discolor,,Hilton Village,US-VA,29 Apr 2015,L11078212,S32888256,,1
+809,33534,species,Northern Parula,Setophaga americana,,Hilton Village,US-VA,29 Apr 2015,L11078212,S32888256,,1
+810,33529,species,American Redstart,Setophaga ruticilla,,Hilton Village,US-VA,29 Apr 2015,L11078212,S32888256,,1
+811,33499,species,Common Yellowthroat,Geothlypis trichas,,Hilton Village,US-VA,29 Apr 2015,L11078212,S32888256,,1
+812,33435,species,Black-and-white Warbler,Mniotilta varia,,Hilton Village,US-VA,29 Apr 2015,L11078212,S32888256,,1
+813,18910,species,Red-eyed Vireo,Vireo olivaceus,,Hilton Village,US-VA,29 Apr 2015,L11078212,S32888256,,1
+814,18816,species,White-eyed Vireo,Vireo griseus,,Hilton Village,US-VA,29 Apr 2015,L11078212,S32888256,,1
+815,17021,species,Great Crested Flycatcher,Myiarchus crinitus,,Hilton Village,US-VA,29 Apr 2015,L11078212,S32888256,,1
+816,8312,species,Red-tailed Hawk,Buteo jamaicensis,,Hilton Village,US-VA,29 Apr 2015,L11078212,S32888256,,1
+817,6479,species,Ring-billed Gull,Larus delawarensis,,Hilton Village,US-VA,29 Apr 2015,L11078212,S32888256,,1
+818,4776,species,Ruby-throated Hummingbird,Archilochus colubris,,Hilton Village,US-VA,29 Apr 2015,L11078212,S32888256,,1
+819,1874,species,Rock Pigeon,Columba livia,,Hilton Village,US-VA,29 Apr 2015,L11078212,S32888256,N,1
+820,32786,species,Swamp Sparrow,Melospiza georgiana,2,Sandy Bottom Nature Park,US-VA,09 Apr 2015,L718718,S22773574,,1
+821,23666,species,Purple Martin,Progne subis,12,Sandy Bottom Nature Park,US-VA,09 Apr 2015,L718718,S22773574,,1
+822,10022,species,Belted Kingfisher,Megaceryle alcyon,1,Sandy Bottom Nature Park,US-VA,09 Apr 2015,L718718,S22773574,,1
+823,1831,species,Pied-billed Grebe,Podilymbus podiceps,1,Sandy Bottom Nature Park,US-VA,09 Apr 2015,L718718,S22773574,,1
+824,460,species,Blue-winged Teal,Spatula discors,2,Sandy Bottom Nature Park,US-VA,09 Apr 2015,L718718,S22773574,,1
+825,27539,species,Gray Catbird,Dumetella carolinensis,1,Gildersleeve School Pond,US-VA,08 Apr 2015,L3546717,S32778121,,1
+826,8109,species,Sharp-shinned Hawk,Accipiter striatus,1,Gildersleeve School Pond,US-VA,08 Apr 2015,L3546717,S32778121,,1
+827,11527,species,Pileated Woodpecker,Dryocopus pileatus,1,Mariners' Museum Park/The Noland Trail,US-VA,07 Apr 2015,L523043,S22741675,,1
+828,8122,species,Cooper's Hawk,Accipiter cooperii,1,Mariners' Museum Park/The Noland Trail,US-VA,07 Apr 2015,L523043,S22741675,,1
+829,33611,species,Palm Warbler,Setophaga palmarum,3,Mariners' Museum Park/The Noland Trail,US-VA,05 Apr 2015,L523043,S22754010,,1
+830,26669,species,Blue-gray Gnatcatcher,Polioptila caerulea,3,Mariners' Museum Park/The Noland Trail,US-VA,05 Apr 2015,L523043,S22754010,,1
+831,26479,species,Brown-headed Nuthatch,Sitta pusilla,1,Mariners' Museum Park/The Noland Trail,US-VA,05 Apr 2015,L523043,S22754010,,1
+832,26391,species,Ruby-crowned Kinglet,Corthylio calendula,1,Mariners' Museum Park/The Noland Trail,US-VA,05 Apr 2015,L523043,S22754010,,1
+833,23691,species,Northern Rough-winged Swallow,Stelgidopteryx serripennis,3,Mariners' Museum Park/The Noland Trail,US-VA,05 Apr 2015,L523043,S22754010,,1
+834,21181,species,Fish Crow,Corvus ossifragus,3,Mariners' Museum Park/The Noland Trail,US-VA,05 Apr 2015,L523043,S22754010,,1
+835,18873,species,Blue-headed Vireo,Vireo solitarius,2,Mariners' Museum Park/The Noland Trail,US-VA,05 Apr 2015,L523043,S22754010,,1
+836,11202,species,Hairy Woodpecker,Dryobates villosus,1,Mariners' Museum Park/The Noland Trail,US-VA,05 Apr 2015,L523043,S22754010,,1
+837,7640,species,Osprey,Pandion haliaetus,2,Mariners' Museum Park/The Noland Trail,US-VA,05 Apr 2015,L523043,S22754010,,1
+838,6774,species,Common Loon,Gavia immer,2,Mariners' Museum Park/The Noland Trail,US-VA,05 Apr 2015,L523043,S22754010,,1
+839,701,species,Bufflehead,Bucephala albeola,4,Mariners' Museum Park/The Noland Trail,US-VA,05 Apr 2015,L523043,S22754010,,1
+840,324,species,Canada Goose,Branta canadensis,12,Mariners' Museum Park/The Noland Trail,US-VA,05 Apr 2015,L523043,S22754010,,1
+841,32571,species,Fox Sparrow,Passerella iliaca,1,Hilton Village,US-VA,04 Apr 2015,L11078212,S22741835,,1
+842,32460,species,Chipping Sparrow,Spizella passerina,4,Hilton Village,US-VA,04 Apr 2015,L11078212,S22741835,,1
+843,32073,species,Pine Siskin,Spinus pinus,2,Hilton Village,US-VA,04 Apr 2015,L11078212,S22741835,,1
+844,27662,species,Eastern Bluebird,Sialia sialis,1,Gildersleeve School Pond,US-VA,26 Mar 2015,L3546717,S22741965,,1
+845,8187,species,Bald Eagle,Haliaeetus leucocephalus,3,Hines Middle School,US-VA,13 Mar 2015,L3546710,S22741942,,1
+846,33616,species,Pine Warbler,Setophaga pinus,1,Newport News Park,US-VA,10 Mar 2015,L3546709,S22741912,,1
+847,32748,species,Song Sparrow,Melospiza melodia,2,Newport News Park,US-VA,10 Mar 2015,L3546709,S22741912,,1
+848,10907,species,Yellow-bellied Sapsucker,Sphyrapicus varius,1,Newport News Park,US-VA,10 Mar 2015,L3546709,S22741912,,1
+849,26564,species,Brown Creeper,Certhia americana,1,Mariners' Museum Park/The Noland Trail,US-VA,24 Feb 2015,L523043,S22741858,,1
+850,634,species,Ring-necked Duck,Aythya collaris,1,Mariners' Museum Park/The Noland Trail,US-VA,24 Feb 2015,L523043,S22741858,,1
+851,515,species,Mallard,Anas platyrhynchos,2,Mariners' Museum Park/The Noland Trail,US-VA,24 Feb 2015,L523043,S22741858,,1
+852,433,species,Wood Duck,Aix sponsa,2,Mariners' Museum Park/The Noland Trail,US-VA,24 Feb 2015,L523043,S22741858,,1
+853,33967,species,Northern Cardinal,Cardinalis cardinalis,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+854,33622,species,Yellow-rumped Warbler,Setophaga coronata,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+855,33327,species,Common Grackle,Quiscalus quiscula,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+856,33307,species,Brown-headed Cowbird,Molothrus ater,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+857,33251,species,Red-winged Blackbird,Agelaius phoeniceus,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+858,32888,species,Eastern Towhee,Pipilo erythrophthalmus,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+859,32672,species,White-throated Sparrow,Zonotrichia albicollis,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+860,32595,species,Dark-eyed Junco,Junco hyemalis,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+861,32095,species,American Goldfinch,Spinus tristis,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+862,31018,species,House Sparrow,Passer domesticus,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,N,1
+863,28096,species,American Robin,Turdus migratorius,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+864,27866,species,Hermit Thrush,Catharus guttatus,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+865,27652,species,Northern Mockingbird,Mimus polyglottos,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+866,27577,species,Brown Thrasher,Toxostoma rufum,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+867,27356,species,European Starling,Sturnus vulgaris,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,N,1
+868,26897,species,Carolina Wren,Thryothorus ludovicianus,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+869,26436,species,White-breasted Nuthatch,Sitta carolinensis,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+870,21771,species,Tufted Titmouse,Baeolophus bicolor,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+871,21671,species,Carolina Chickadee,Poecile carolinensis,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+872,21168,species,American Crow,Corvus brachyrhynchos,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+873,20899,species,Blue Jay,Cyanocitta cristata,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+874,11665,species,Northern Flicker,Colaptes auratus,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+875,11175,species,Downy Woodpecker,Dryobates pubescens,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+876,10979,species,Red-bellied Woodpecker,Melanerpes carolinus,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+877,7624,species,Turkey Vulture,Cathartes aura,2,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+878,7514,species,Great Blue Heron,Ardea herodias,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+879,2427,species,Mourning Dove,Zenaida macroura,1,Hilton Village,US-VA,13 Feb 2015,L11078212,S22741774,,1
+880,29386,species,Cedar Waxwing,Bombycilla cedrorum,40,Hilton Village,US-VA,15 Jan 2015,L11078212,S22741804,,1
+881,9056,species,Striped Owl,Asio clamator,4,Estancia Villa Maria,AR-B,11 Jul 2014,L7101920,S43853989,,1
+882,17055,species,Great Kiskadee,Pitangus sulphuratus,1,Isla de Ometepe--Peña Inculta,NI-RI,06 Apr 2014,L1920660,S38278419,,1
+883,7620,species,Black Vulture,Coragyps atratus,4,Isla de Ometepe--Peña Inculta,NI-RI,06 Apr 2014,L1920660,S38278419,,1
+884,7491,species,Great Egret,Ardea alba,2,Isla de Ometepe--Peña Inculta,NI-RI,06 Apr 2014,L1920660,S38278419,,1
+885,7416,species,Snowy Egret,Egretta thula,3,Isla de Ometepe--Peña Inculta,NI-RI,06 Apr 2014,L1920660,S38278419,,1
+886,5413,species,Russet-naped Wood-Rail,Aramides albiventris,1,PN Santa Rosa--Sector Playa Naranjo,CR-G,04 Apr 2014,L486096,S54862736,,1
+38,263,species,Graylag Goose,Anser anser,8,Parque 3 de Febrero (Bosques de Palermo),AR-C,14 Dec 2021,L1295521,S98880887,X,0
+203,539,hybrid,Mallard x American Black Duck (hybrid),Anas platyrhynchos x rubripes,1,Anderson Park,US-VA,14 Jan 2018,L718297,S41908309,,0
+22,27879,spuh,Catharus sp.,Catharus sp.,1,Deep Bottom Park,US-VA,08 May 2023,L418431,S136632880,,0
+25,11699,spuh,woodpecker sp.,Picidae sp.,1,Ferd's Bog,US-NY,06 Jul 2022,L109141,S114666370,,0
+30,8377,spuh,Buteo sp.,Buteo sp.,1,Mariners' Museum Park/The Noland Trail,US-VA,14 May 2022,L523043,S110091760,,0
+31,33427,slash,Louisiana/Northern Waterthrush,Parkesia motacilla/noveboracensis,1,Mariners' Museum Park/The Noland Trail,US-VA,12 May 2022,L523043,S109797205,,0
+39,33299,slash,Screaming/Shiny Cowbird,Molothrus rufoaxillaris/bonariensis,2,Reserva Ecológica Ciudad Universitaria - Costanera Norte,AR-C,14 Dec 2021,L976247,S98881019,,0
+40,23690,spuh,new world martin sp. (Progne sp.),Progne sp.,7,Reserva Ecológica Costanera Sur,AR-C,12 Dec 2021,L472208,S98881131,,0
+44,750,spuh,duck sp.,Anatidae (duck sp.),1,"SR-164 W, Portsmouth US-VA (36.8735,-76.3791)",US-VA,19 Oct 2021,L16683269,S96424660,,0
+45,6923,spuh,storm-petrel sp.,Oceanitidae/Hydrobatidae sp.,40,"Gulf of Maine, Gouldsboro US-ME (44.3503,-67.9327)",US-ME,01 Jul 2021,L15597555,S91085132,,0
+48,6694,slash,Common/Arctic Tern,Sterna hirundo/paradisaea,300,"Gulf of Maine, Gouldsboro US-ME (44.3503,-67.9327)",US-ME,01 Jul 2021,L15597555,S91085132,,0
+57,6029,slash,Short-billed/Long-billed Dowitcher,Limnodromus griseus/scolopaceus,2,Messick Point,US-VA,27 Apr 2020,L2153527,S67946551,,0
+60,6316,spuh,shorebird sp.,Charadriiformes sp.,2,Bill Jessee Park,US-VA,06 Sep 2019,L9885140,S59569036,,0
+61,11225,slash,Downy/Hairy Woodpecker,Dryobates pubescens/villosus,1,"671–700 Upward Way, Black Mountain US-NC (35.6592,-82.2966)",US-NC,08 Aug 2019,L9769497,S58861709,,0
+62,6197,spuh,Calidris sp.,Calidris sp.,4,Bill Baggs Cape Florida SP,US-FL,31 Jul 2019,L127423,S58614590,,0
+149,16658,slash,Hammond's/Dusky Flycatcher,Empidonax hammondii/oberholseri,1,"Saguaro NP--East--Rincon Mountains Unit  (Historical, please do not use for current lists)",US-AZ,05 Apr 2019,L129073,S54599106,,0
+156,33067,slash,Western/Chihuahuan Meadowlark,Sturnella neglecta/lilianae,2,181 to Pinery Canyon,US-AZ,03 Apr 2019,L8991864,S54648995,,0
+163,32684,slash,Sagebrush/Bell's Sparrow (Sage Sparrow),Artemisiospiza nevadensis/belli,3,"Mojave National Preserve, Essex US-CA (35.1291,-115.6100)",US-CA,28 Dec 2018,L8317030,S51034051,,0
+172,7264,slash,Double-crested/Neotropic Cormorant,Nannopterum auritum/brasilianum,30,Vista del Camino Park--north end,US-AZ,23 Dec 2018,L6686511,S50928154,,0
+183,21687,slash,Carolina/Black-capped Chickadee,Poecile carolinensis/atricapillus,8,Jeremey's Run --> Knob Mountain loop,US-VA,08 Dec 2018,L8250647,S50653153,,0
+185,31808,slash,House/Purple Finch,Haemorhous mexicanus/purpureus,1,Hilton Village,US-VA,04 Nov 2018,L11078212,S49674315,,0
+187,35292,spuh,passerine sp.,Passeriformes sp.,4,Mariners' Museum Park/The Noland Trail,US-VA,13 Oct 2018,L523043,S49162428,,0
+188,33850,spuh,new world warbler sp.,Parulidae sp.,4,Mariners' Museum Park/The Noland Trail,US-VA,12 Oct 2018,L523043,S49141208,,0
+189,8123,slash,Sharp-shinned/Cooper's Hawk,Accipiter striatus/cooperii,1,Mariners' Museum Park/The Noland Trail,US-VA,12 Oct 2018,L523043,S49141208,,0
+191,375,spuh,swan sp.,Cygnus sp.,1,"Goddard Memorial State Park, Warwick US-RI (41.6652,-71.4350)",US-RI,28 Jul 2018,L7768625,S47542461,,0
+192,540,slash,Mallard/American Black Duck,Anas platyrhynchos/rubripes,1,Anderson Park,US-VA,17 Apr 2018,L718297,S44673055,,0
+195,26694,spuh,gnatcatcher sp.,Polioptila sp.,3,Big Bend NP--Pinnacles Trail,US-TX,04 Apr 2018,L714949,S44429763,,0
+197,21244,spuh,raven sp.,Corvus sp. (raven sp.),1,"I-10 W, Fort Stockton US-TX (30.7720,-101.9476)",US-TX,03 Apr 2018,L7165414,S44219392,,0
+198,294,domestic,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),2,Mariners' Museum Park/The Noland Trail,US-VA,18 Mar 2018,L523043,S43756706,X,0
+201,697,slash,Surf/Black Scoter,Melanitta perspicillata/americana,2,King-Lincoln Park,US-VA,20 Jan 2018,L5292802,S42091763,,0
+204,27192,spuh,wren sp.,Troglodytidae sp.,1,Grandview Nature Preserve,US-VA,09 Jan 2018,L718480,S41772498,,0
+205,669,slash,Greater/Lesser Scaup,Aythya marila/affinis,8,Grandview Nature Preserve,US-VA,09 Jan 2018,L718480,S41772498,,0
+220,7379,slash,Yellow-crowned/Black-crowned Night Heron,Nycticorax nycticorax/Nyctanassa violacea,1,Ocean Blue and Sand Resort,DO-11,07 Aug 2017,L6159275,S38524121,,0
+226,4780,slash,Ruby-throated/Black-chinned Hummingbird,Archilochus colubris/alexandri,1,Hornsby Bend (HOTE 037),US-TX,04 Aug 2017,L130766,S38473887,,0
+234,6195,slash,Western/Semipalmated Sandpiper,Calidris mauri/pusilla,25,TX48--Shrimp Basin Bridge / Zapata Memorial Boat Ramp/ San Martin Lake outlet,US-TX,01 Aug 2017,L1050482,S38433371,,0
+235,23879,slash,Cliff/Cave Swallow,Petrochelidon pyrrhonota/fulva,4,Old Port Isabel Rd,US-TX,01 Aug 2017,L389757,S38441399,,0
+239,17145,slash,Tropical/Couch's Kingbird,Tyrannus melancholicus/couchii,1,Sabal Palm Sanctuary (LTC 042),US-TX,01 Aug 2017,L129070,S38428764,,0
+252,6738,spuh,tern sp.,Sterninae sp.,15,Fort Monroe,US-VA,22 Jul 2017,L604728,S38263326,,0
+255,16687,spuh,Empidonax sp.,Empidonax sp.,1,Forest at the end of West St,US-MA,03 Jul 2017,L6048848,S37945206,,0
+257,23885,spuh,swallow sp.,Hirundinidae sp.,1,Stony Run Athletic Complex,US-VA,30 Jun 2017,L5042910,S37881354,,0
+258,17183,spuh,new world flycatcher sp.,Tyrannidae sp.,1,Newport News Park,US-VA,28 Jun 2017,L718631,S37849533,,0
+264,6693,slash,Forster's/Common Tern,Sterna forsteri/hirundo,12,Grandview Nature Preserve,US-VA,27 May 2017,L718480,S37187225,,0
+275,7636,spuh,new world vulture sp.,Cathartidae sp.,2,Everglades NP--Shark Valley: Tram Rd. & Observation Tower,US-FL,03 Apr 2017,L1050601,S35671638,,0
+277,6737,spuh,large tern sp.,Hydroprogne/Thalasseus sp.,2,Chokoloskee--Smallwood Store,US-FL,02 Apr 2017,L638667,S35657745,,0
+281,7544,spuh,white egret sp.,Egretta/Bubulcus/Ardea sp.,1,"Weekiwachee Preserve, east of Shoal Line Boulevard",US-FL,19 Mar 2017,L499776,S35299884,,0
+285,33417,spuh,blackbird sp.,Icteridae sp.,3,Stony Run Athletic Complex,US-VA,27 Jan 2017,L5042910,S33964099,,0
+294,21231,spuh,crow sp.,Corvus sp. (crow sp.),1,Mariners' Museum Park/The Noland Trail,US-VA,14 Jan 2017,L523043,S33664006,,0
+304,6564,spuh,gull sp.,Larinae sp.,1,Gildersleeve School Pond,US-VA,10 Dec 2016,L3546717,S32945398,,0
+316,11904,spuh,falcon sp.,Falco sp.,1,Stony Run Athletic Complex,US-VA,08 Nov 2016,L5042910,S32432874,,0
+317,32995,spuh,new world sparrow sp.,Passerellidae sp.,3,Stony Run Athletic Complex,US-VA,06 Nov 2016,L5042910,S32401733,,0
+327,6196,spuh,peep sp.,Calidris sp. (peep sp.),3,Hog Island WMA,US-VA,22 Aug 2016,L718515,S31215816,,0
+338,27084,slash,Cabanis's/Isthmian Wren,Cantorchilus modestus/elutus,1,Finca Maritima (Playa El Rey) rice fields,CR-P,07 Aug 2016,L2364240,S32383559,,0
+661,6119,slash,Lesser/Greater Yellowlegs,Tringa flavipes/melanoleuca,1,I-20 Pond/Jenna Welch Nature Ctr. (FWTX 55),US-TX,09 Apr 2016,L981552,S32396853,,0
+730,5182,spuh,hummingbird sp.,Trochilidae sp.,1,Famosa Slough,US-CA,19 Nov 2015,L246035,S26374902,,0

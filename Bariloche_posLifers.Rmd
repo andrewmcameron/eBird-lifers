@@ -1,0 +1,297 @@
+---
+title: "birding bariloche"
+output: html_document
+---
+
+Goal: Create app that will produce interactive tree map. Each rectangle links to the ebird page for that species. 
+Target inputs for full functionality: csv of lifelist; ebird location codes. Given codes, determine the frequency of checklists containing each species at each location. Assign max value or some form of weighted probability to each species. Check against submitter's life list and eliminate matches. 
+
+EBIRD_KEY = jrel4sdsnpqv
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+
+
+```
+
+
+
+.csv files downloaded from eBird location bar chart pages ('Download Histogram Data')
+```{r}
+files <- list.files(paste0(getwd(), "/bariloche"))
+files <- grep("ebird_L.*\\.csv$", files, value = TRUE)
+
+
+hist_files <- list()
+genus_species <-list()
+
+# INITIATE PRIMARY LOOP
+for (i in seq_along(files)) {
+    csv <- read_csv(paste0(getwd(), "/bariloche/", files[i]) )
+    
+    colnames(csv)[1] <- "Common Name"
+    
+    df <- csv %>%
+      filter(!row_number() %in% c(1, 2, 3, 5)) 
+    
+        # embeddedLoop1 Assign month names to columns in groups of 4, starting at col 2.
+        for (colnum in seq(2, 48, 4)) {
+          colnames(df)[colnum:(colnum + 3)] <- csv[3, colnum]
+        }
+        
+             # add '_q1', '_q2', etc to cols 
+            for (w in seq(2,46,4)) {
+            colnames(df)[w] <- paste0(colnames(df)[w], "_q1")
+            }
+        
+            for (x in seq(3,47,4)) {
+          colnames(df)[x] <- paste0(colnames(df)[x], "_q2")
+            }
+          
+            for (y in seq(4,48,4)) {
+          colnames(df)[y] <- paste0(colnames(df)[y], "_q3")
+            }
+          
+            for (z in seq(5,49,4)) {
+          colnames(df)[z] <- paste0(colnames(df)[z], "_q4")
+            }
+
+    
+    
+### ----Dataframe containing species latin names/scientific names           
+    related_df <- data.frame(genus = c(rep(NA, times = nrow(df[3:nrow(df),]))),
+                             sp. = c(rep(NA, times = nrow(df[3:nrow(df),]))),
+                             SciName = c(rep(NA, times = nrow(df[3:nrow(df),]))),
+                             CommonName = c(rep(NA, times = nrow(df[3:nrow(df),])))
+    )
+        # embeddedLoop2.  "\\1" tells the function to replace everything
+        for (row in 1:nrow(related_df)) {
+          related_df$SciName[row] <- sub(".*>([^<]+)<.*", "\\1", df$`Common Name`[row+2])
+          
+          related_df$genus[row] <- sub("^(\\S+).*", "\\1", related_df$SciName[row])
+      
+          related_df$sp.[row] <- sub("^\\S+\\s(\\S+).*", "\\1", related_df$SciName[row])
+          
+          related_df$CommonName[row] <- trimws(sub("\\(.*", "", df$`Common Name`[row + 2]))
+          
+        }
+
+    
+    df <- as.data.frame(t(df))
+    df$ebird_loc <- sub("\\.csv$", "", files[i])
+    
+    colnames(df) <- df[1, ]
+    df <- df[-1, ]
+
+        # embeddedLoop3
+        for (col in 2:length(colnames(df))) {
+        
+        colnames(df)[col] <- trimws(sub("\\(.*", "", colnames(df)[col]))
+        }
+
+
+      numeric_cols <- 1:(ncol(df) - 1)
+    
+      # Coerce the selected columns to numeric
+      df[, numeric_cols] <- lapply(df[, numeric_cols], as.numeric)
+        
+      hist_files[[i]] <- df
+      genus_species[[i]] <- related_df
+} # END PRIMARY LOOP
+
+
+
+# Create a column to define the ebird Location name
+locations <- c(
+  "Bariloche--Arroyo Gutierrez",
+  "Parque Municipal Llao Llao",
+  "PN Nahuel Huapi--Desembocadura Río Ñirihuau",
+  "PN Nahuel Huapi--Refugio Frey",
+  "Laguna Los Juncos"
+)
+
+for (i in 1:5) {
+  hist_files[[i]]$loc.name <- locations[i]
+}
+
+```
+
+```{r}
+hist_files[[1]] -> df.arroyoG
+hist_files[[2]] -> df.pmllao
+hist_files[[3]] -> df.rio
+hist_files[[4]] -> df.frey
+hist_files[[5]] -> df.laguna
+
+keep_rows <- c("Jan_q4", "Feb_q1", "Feb_q2", "Feb_q3", "Feb_q4", "Mar_q1", "Mar_q2", "Mar_q3")
+
+janToMarch <- list()
+
+for (df in seq_along(files)) {
+  
+  df_janToMarch <- hist_files[[df]][rownames(hist_files[[df]]) %in% keep_rows, ]
+  
+  df_janToMarch <- df_janToMarch %>%
+  filter(`Sample Size:` != 0)
+  
+  janToMarch[[df]] <- df_janToMarch
+}
+
+latesum.arroyo <- janToMarch[[1]]
+latesum.pmllao <- janToMarch[[2]]
+latesum.rio <- janToMarch[[3]]
+latesum.frey <- janToMarch[[4]]
+latesum.laguna <- janToMarch[[5]]
+
+
+```
+
+#### Determine total # of checklists and how many checklists each species appeared on for each location.
+```{r}
+
+species_probs_list <- list()
+
+for (i in seq_along(hist_files)) {
+  
+  species_prob <- data.frame(species = colnames(hist_files[[i]])[2:(length(colnames(hist_files[[i]])) - 2)],
+                            appeared_on = as.numeric(NA),
+                            total_chklist = sum(janToMarch[[i]]$`Sample Size:`)
+  )
+  
+
+    for (j in 1:nrow(species_prob)) {
+      species_prob[j, 2] <- sum(janToMarch[[i]][, 1] * janToMarch[[i]][,j+1])
+    }
+  
+   species_prob$perc_lists <- species_prob$appeared_on/species_prob$total_chklist
+   species_prob <- species_prob[,-2]
+
+species_probs_list[[i]] <- species_prob
+}
+
+
+
+probs.arroyo <- species_probs_list[[1]]
+probs.pmllao <- species_probs_list[[2]]
+probs.frey <- species_probs_list[[4]]
+probs.rio <- species_probs_list[[3]]
+probs.laguna <- species_probs_list[[5]]
+
+colnames(probs.arroyo)[2:3] <- c("lists_arroyo", "perc_arroyo")
+colnames(probs.pmllao)[2:3] <- c("lists_pmllao", "perc_pmllao")
+colnames(probs.frey)[2:3] <- c("lists_frey", "perc_frey")
+colnames(probs.rio)[2:3] <- c("lists_rio", "perc_rio")
+colnames(probs.laguna)[2:3] <- c("lists_laguna", "perc_laguna")
+
+result <- probs.arroyo %>%
+  left_join(probs.frey, by = "species") %>%
+  left_join(probs.pmllao, by = "species") %>%
+  left_join(probs.laguna, by = "species") %>%
+  left_join(probs.rio, by = "species")
+
+
+result <- replace(result, is.na(result), 0)
+result$species <- sub("\\s*\\(.*", "", result$species) # clean up any lingering characters after common name
+
+result$weighted.avg <- ((result[,2] * result[,3]) + (result[,4] * result[,5]) + (result[,6] * result[,7]) + (result[,8] * result[,9]) + (result[,10] * result[,11])) / (result[,2] + result[,4] + result[,6] + result[,8] + result[,10])
+
+max_values <- apply(result[, c(seq(3,11,2))], 1, max)
+result <- cbind(result, max_values)
+
+
+result <- result %>%
+  left_join(related_df, by = join_by(species == CommonName) )
+
+
+
+result$cumProb <- NA
+# -- ! Calculate cumulative probabilities.
+# The formula for the cumulative probability of seeing at least one of a given species is given by:
+# P(At least one bird)=1−P(Not seeing a bird at all places)
+for (i in 1:nrow(result)) {
+  probs_vector <- unlist(c(result[i, grepl("^perc_", names(result))]))
+  
+  # Calculate the complement (none of the events occurring)
+  complement_probability <- prod(1 - probs_vector)
+
+  # Calculate the overall probability of at least one event occurring
+  result[i, "cumProb"] <-1 - complement_probability
+    
+}
+
+print(result)
+
+```
+
+```{r}
+# cross reference with my life list
+
+life_list <- read_csv("ebird_world_life_list.csv")
+
+lifers <- life_list$`Common Name`
+
+potential_lifers <- result %>%
+  filter(! species %in% lifers)
+  
+```
+
+```{r}
+tax <- read_csv("/Users/Endru/Desktop/birding_R/eBird_taxonomy.csv")
+
+potential_lifers <- potential_lifers %>%
+  left_join(tax %>%
+              select(family, "English name"),
+            by = join_by(species == "English name"))
+```
+
+```{r fig.width = 8, fig.height=5.5}
+# Tree map
+  ###
+library(treemap)
+
+potential_lifers$family[is.na(potential_lifers$family)] <- "NA"
+potential_lifers$family <- as.factor(potential_lifers$family)
+
+treemap(potential_lifers, 
+        index= c("species", "genus"), 
+        vSize="cumProb",
+        type="index",
+        title = "Potential Lifers in Bariloche",
+        palette = unlist(wesanderson::wes_palettes[8]),
+        border.lwds = 2,
+        lowerbound.cex.labels = 0
+            ) 
+
+print(result %>%
+        arrange(desc(cumProb)) %>%
+        select(species, cumProb, max_values)
+)
+
+```
+
+
+### Cumulative Observation Probability
+
+Consider this: if I have an 80% chance of seeing a bird species, B, at location x, and I then visit location y, where I have a 15% chance of seeing that same species, then it seems to me that my overall odds of seeing species B have to be > 80%. Yet the formula you have suggested, and which is commonly used, would necessarily result in some value <80%.  But I suggest the odds MUST be higher, because my visiting location y has no affect on my chances of seeing B at x. They are indepdent events. There should be some way in which a cumulative odds are calculated. So that 80% would e xperience a marginal increase based on the 15% chance at location y.
+ChatGPT
+
+If the events are independent, you are correct that the overall likelihood of seeing species B at either location X or Y can be calculated as a cumulative probability. In this case, you would use the complement rule for independent events. The formula for the probability of the union of independent events A and B is given by:
+
+P(A∪B)=P(A)+P(B)−P(A∩B)P(A∪B)=P(A)+P(B)−P(A∩B)
+
+In your case, the probability of seeing species B at either location X or Y would be:
+
+Overall Likelihood=Probability of seeing B at X+Probability of seeing B at Y−Probability of seeing B at both X and YOverall Likelihood=Probability of seeing B at X+Probability of seeing B at Y−Probability of seeing B at both X and Y
+```{r}
+
+
+
+
+```
+
+This code creates a new column weighted_prob in your DataFrame results where each row's value is calculated using the weighted probability formula you specified. 
+
+
+

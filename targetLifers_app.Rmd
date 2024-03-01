@@ -1,0 +1,152 @@
+---
+title: "target lifers app"
+author: "Andrew Cameron"
+date: "2024-01-22"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(httr)
+library(jsonlite)
+
+# eBird API-specific
+EBIRD_KEY = "jrel4sdsnpqv"
+headers = c('X-eBirdApiToken' = 'jrel4sdsnpqv') 
+```
+
+
+```{r `hotspot information}
+
+# user input
+  ## hot_spot_names = character; case insensitive hot spot names
+  ## loc.id = character; case insensitive alphanumeric string
+  ## 
+# hot_spot_names = {{user.defined}}
+
+loc.id = 
+  c("L11129641", 
+    "L2430291", 
+    "L2762998", 
+    "L6334917", 
+    "L682725" 
+    )
+
+
+df.hotspots <- list()
+
+for (i in seq_along(loc.id)) {
+  id = loc.id[i]
+  url_base = "https://api.ebird.org/v2/ref/hotspot/info/"
+  full_url = paste0(url_base, id)
+  
+  api_call <- GET(full_url, add_headers(headers))
+  content <- api_call$content
+  json_string <- rawToChar(content)
+  # Convert JSON string to a list
+  df <- as.data.frame(fromJSON(json_string))
+  
+  df.hotspots[[i]] <- df
+  }
+  
+df.hotspots <- do.call(rbind, df.hotspots)
+
+locID <- df.hotspots$locId
+
+print(df.hotspots)
+
+```
+
+## pull in hotspot bar chart data
+
+Headers must be set appropriately for GET call to the bar chart URLs to work. In Mozilla:
+
+```         
+Open Developer Tools:
+    Right-click on the page.
+    Select "Inspect" or "Inspect Element" to open the Developer Tools.
+
+Go to the Network Tab:
+    Within the Developer Tools, go to the "Network" tab.
+
+Reload the Page:
+    Reload the page (you can press Ctrl + R or click the reload icon).
+
+Find the Request:
+    Look for the request corresponding to the URL you are interested in. This request may appear in the list of network requests.
+
+View Request Headers:
+    Click on the request to view details.
+    Navigate to the "Headers" tab.
+    In the "Headers" tab, you can see the request headers (headers sent by your browser).
+```
+
+```{r `hotspot barchart data}
+
+# https://ebird.org/barchart?byr=2010&eyr={{currentyear}}&bmo={{begmonth.int}}&emo={endmonth.int}}&r={{loc.id}}
+
+headers <- c(
+  "Host" = "ebird.org",
+  "User-Agent" = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0",
+  "Accept" = "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+  "Accept-Language" = "en-US,en;q=0.5",
+  "Accept-Encoding" = "gzip, deflate, br",
+  "Cookie: ga_QR4NVXZ8BM=GS1.1.1706986559.76.1.1706986606.13.0.0; _ga=GA1.2.319288474.1695139105; _ga_4RP6YTYH7F=GS1.1.1706986559.145.1.1706986606.0.0.0; __hstc=60209138.de2a05a390d26b1828a9ce0f55b5c96d.1671667294755.1706645086017.1706986560515.123; hubspotutk=de2a05a390d26b1828a9ce0f55b5c96d; _ga_8JQBY4XKBJ=GS1.1.1706986564.9.1.1706986606.0.0.0; _ga_4M7XKND0RE=GS1.1.1678887682.2.0.1678887682.0.0.0; _ga_YT7Y2S4MBX=GS1.1.1706562424.14.0.1706562424.0.0.0; _gcl_au=1.1.2067310276.1704133795; _ga_CYH8S0R99B=GS1.1.1706986559.33.1.1706986606.13.0.0; EBIRD_SESSIONID=875E99E7B99CB9C9BA1B6C37CC1A471D; _gid=GA1.2.970967043.1706986560; _dc_gtm_UA-51396009-1=1; __hssrc=1; __hssc=60209138.2.1706986560515
+Upgrade-Insecure-Requests: 1",
+  "Connection" = "keep-alive",
+  "Upgrade-Insecure-Requests" = "1",
+  "Sec-Fetch-Dest" = "document",
+  "Sec-Fetch-Mode" = "navigate",
+  "Sec-Fetch-Site" = "cross-site",
+  'X-eBirdApiToken' = 'jrel4sdsnpqv'
+)
+
+## TSV data will only return if the EBIRD_SESSIONID refers to an active session (it seems). 
+
+
+
+histogram_list <- list()
+
+  currentyear = lubridate::year(Sys.Date())
+for (i in seq_along(locID)) {
+  
+  url <- paste0("https://ebird.org/barchartData?r=", 
+                locID[[i]], 
+                "&bmo=1&emo=12&byr=2010&eyr=", 
+                currentyear,  
+                "&fmt=tsv"
+                )
+  
+  response <- GET(url, add_headers(headers), config(followlocation = TRUE))
+  
+  content <- response$content
+  tsv_content <- rawToChar(content)
+  tsv_content <- sub("^.*\\tJan", "tJan", tsv_content)
+  dt <- data.table::fread(tsv_content, header = FALSE, quote = "")
+  
+  histogram_list[[i]] <- dt
+}
+  
+## ----
+  
+response <- GET("https://ebird.org/barchartData?r=L6334917&bmo=1&emo=12&byr=1900&eyr=2024&fmt=tsv", add_headers(headers), config(followlocation = TRUE))
+
+url <- paste0("https://ebird.org/barchart?r=", locID, "&yr=all&m=")
+
+
+response <- GET(url, add_headers(headers), config(followlocation = TRUE))
+
+content <- response$content
+tsv_content <- rawToChar(content)
+tsv_content <- sub("^.*\\tJan", "tJan", tsv_content)
+
+
+
+substr(id1, 45, 100) ->sub1
+substr(id2, 45, 100) -> sub2
+
+print(sub1)
+print(sub2)
+id1
+```
+
